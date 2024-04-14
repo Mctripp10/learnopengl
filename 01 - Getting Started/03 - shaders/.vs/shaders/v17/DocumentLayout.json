@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\03 - shaders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE6492-4DA8-4784-83FC-84CEA7F3281F}|shaders.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\03 - shaders\\exercise3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BDE6492-4DA8-4784-83FC-84CEA7F3281F}|shaders.vcxproj|solutionrelative:exercise3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE6492-4DA8-4784-83FC-84CEA7F3281F}|shaders.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\03 - shaders\\exercise2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BDE6492-4DA8-4784-83FC-84CEA7F3281F}|shaders.vcxproj|solutionrelative:exercise2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exercise3.cpp",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\03 - shaders\\exercise3.cpp",
+              "RelativeDocumentMoniker": "exercise3.cpp",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\03 - shaders\\exercise3.cpp",
+              "RelativeToolTip": "exercise3.cpp",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAwwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-14T12:48:21.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "exercise2.cpp",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\03 - shaders\\exercise2.cpp",
+              "RelativeDocumentMoniker": "exercise2.cpp",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\03 - shaders\\exercise2.cpp",
+              "RelativeToolTip": "exercise2.cpp",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAwwIkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-14T12:48:15.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
