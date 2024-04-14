@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\shaders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE6492-4DA8-4784-83FC-84CEA7F3281F}|shaders.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\shaders\\shaders_ex3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BDE6492-4DA8-4784-83FC-84CEA7F3281F}|shaders.vcxproj|solutionrelative:shaders_ex3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "shaders_ex3.cpp",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\shaders\\shaders_ex3.cpp",
+              "RelativeDocumentMoniker": "shaders_ex3.cpp",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\shaders\\shaders_ex3.cpp",
+              "RelativeToolTip": "shaders_ex3.cpp",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAmwIkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-30T20:47:58.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
