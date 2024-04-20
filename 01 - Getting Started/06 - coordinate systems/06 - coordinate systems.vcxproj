@@ -137,6 +137,9 @@
     <ClCompile Include="coordinate_systems2.cpp" />
     <ClCompile Include="coordinate_systems3.cpp" />
     <ClCompile Include="coordinate_systems4.cpp" />
+    <ClCompile Include="exercise1.cpp" />
+    <ClCompile Include="exercise2.cpp" />
+    <ClCompile Include="exercise3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="shader.frag" />

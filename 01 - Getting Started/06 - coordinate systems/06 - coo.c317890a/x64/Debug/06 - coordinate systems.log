@@ -1,2 +1,3 @@
-﻿  coordinate_systems4.cpp
+﻿  exercise3.cpp
+C:\Users\Mctri\Workspaces\visual-studio-workspace\OpenGL\learnopengl\01 - Getting Started\06 - coordinate systems\exercise3.cpp(245,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   06 - coordinate systems.vcxproj -> C:\Users\Mctri\Workspaces\visual-studio-workspace\OpenGL\learnopengl\01 - Getting Started\06 - coordinate systems\x64\Debug\06 - coordinate systems.exe
