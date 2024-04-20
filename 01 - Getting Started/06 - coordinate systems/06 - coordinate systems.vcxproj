@@ -134,10 +134,13 @@
   <ItemGroup>
     <ClCompile Include="..\..\..\..\..\..\..\..\OpenGL\glad\src\glad.c" />
     <ClCompile Include="coordinate_systems1.cpp" />
+    <ClCompile Include="coordinate_systems2.cpp" />
+    <ClCompile Include="coordinate_systems3.cpp" />
+    <ClCompile Include="coordinate_systems4.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="shader.fs" />
-    <None Include="shader.vs" />
+    <None Include="shader.frag" />
+    <None Include="shader.vert" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

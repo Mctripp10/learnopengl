@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\06 - coordinate systems\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C317890A-7E6A-4E05-9CF5-4DC418E434B7}|06 - coordinate systems.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\06 - coordinate systems\\shader.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C317890A-7E6A-4E05-9CF5-4DC418E434B7}|06 - coordinate systems.vcxproj|solutionrelative:shader.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{C317890A-7E6A-4E05-9CF5-4DC418E434B7}|06 - coordinate systems.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\06 - coordinate systems\\coordinate_systems4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C317890A-7E6A-4E05-9CF5-4DC418E434B7}|06 - coordinate systems.vcxproj|solutionrelative:coordinate_systems4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C317890A-7E6A-4E05-9CF5-4DC418E434B7}|06 - coordinate systems.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\06 - coordinate systems\\shader.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{C317890A-7E6A-4E05-9CF5-4DC418E434B7}|06 - coordinate systems.vcxproj|solutionrelative:shader.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{C317890A-7E6A-4E05-9CF5-4DC418E434B7}|06 - coordinate systems.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\06 - coordinate systems\\coordinate_systems3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C317890A-7E6A-4E05-9CF5-4DC418E434B7}|06 - coordinate systems.vcxproj|solutionrelative:coordinate_systems3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C317890A-7E6A-4E05-9CF5-4DC418E434B7}|06 - coordinate systems.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\06 - coordinate systems\\coordinate_systems1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C317890A-7E6A-4E05-9CF5-4DC418E434B7}|06 - coordinate systems.vcxproj|solutionrelative:coordinate_systems1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C317890A-7E6A-4E05-9CF5-4DC418E434B7}|06 - coordinate systems.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\06 - coordinate systems\\coordinate_systems2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C317890A-7E6A-4E05-9CF5-4DC418E434B7}|06 - coordinate systems.vcxproj|solutionrelative:coordinate_systems2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C317890A-7E6A-4E05-9CF5-4DC418E434B7}|06 - coordinate systems.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\06 - coordinate systems\\shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C317890A-7E6A-4E05-9CF5-4DC418E434B7}|06 - coordinate systems.vcxproj|solutionrelative:shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C317890A-7E6A-4E05-9CF5-4DC418E434B7}|06 - coordinate systems.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\06 - coordinate systems\\shader.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C317890A-7E6A-4E05-9CF5-4DC418E434B7}|06 - coordinate systems.vcxproj|solutionrelative:shader.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,41 +35,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "shader.vs",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\06 - coordinate systems\\shader.vs",
-              "RelativeDocumentMoniker": "shader.vs",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\06 - coordinate systems\\shader.vs",
-              "RelativeToolTip": "shader.vs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBAAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-18T11:33:28.402Z",
+              "Title": "coordinate_systems4.cpp",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\06 - coordinate systems\\coordinate_systems4.cpp",
+              "RelativeDocumentMoniker": "coordinate_systems4.cpp",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\06 - coordinate systems\\coordinate_systems4.cpp",
+              "RelativeToolTip": "coordinate_systems4.cpp",
+              "ViewState": "AQIAANAAAAAAAAAAAAAAwOwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-19T11:25:43.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "shader.fs",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\06 - coordinate systems\\shader.fs",
-              "RelativeDocumentMoniker": "shader.fs",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\06 - coordinate systems\\shader.fs",
-              "RelativeToolTip": "shader.fs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-18T11:33:20.828Z",
-              "EditorCaption": ""
+              "Title": "coordinate_systems3.cpp",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\06 - coordinate systems\\coordinate_systems3.cpp",
+              "RelativeDocumentMoniker": "coordinate_systems3.cpp",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\06 - coordinate systems\\coordinate_systems3.cpp",
+              "RelativeToolTip": "coordinate_systems3.cpp",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAqwNAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-19T11:23:49.644Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "coordinate_systems1.cpp",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\06 - coordinate systems\\coordinate_systems1.cpp",
-              "RelativeDocumentMoniker": "coordinate_systems1.cpp",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\06 - coordinate systems\\coordinate_systems1.cpp",
-              "RelativeToolTip": "coordinate_systems1.cpp",
-              "ViewState": "AQIAAK8AAAAAAAAAAAAAAMEAAAAlAAAA",
+              "Title": "coordinate_systems2.cpp",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\06 - coordinate systems\\coordinate_systems2.cpp",
+              "RelativeDocumentMoniker": "coordinate_systems2.cpp",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\06 - coordinate systems\\coordinate_systems2.cpp",
+              "RelativeToolTip": "coordinate_systems2.cpp",
+              "ViewState": "AQIAANgAAAAAAAAAAAAqwP0AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-18T11:30:26.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T11:00:11.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "shader.frag",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\06 - coordinate systems\\shader.frag",
+              "RelativeDocumentMoniker": "shader.frag",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\06 - coordinate systems\\shader.frag",
+              "RelativeToolTip": "shader.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-19T10:57:14.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "shader.vert",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\06 - coordinate systems\\shader.vert",
+              "RelativeDocumentMoniker": "shader.vert",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\06 - coordinate systems\\shader.vert",
+              "RelativeToolTip": "shader.vert",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-18T11:33:28.402Z"
             }
           ]
         }
