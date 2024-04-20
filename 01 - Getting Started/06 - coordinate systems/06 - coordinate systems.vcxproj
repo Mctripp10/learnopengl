@@ -140,6 +140,7 @@
     <ClCompile Include="exercise1.cpp" />
     <ClCompile Include="exercise2.cpp" />
     <ClCompile Include="exercise3.cpp" />
+    <ClCompile Include="camera_circle_test.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="shader.frag" />
