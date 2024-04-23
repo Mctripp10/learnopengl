@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|solutionrelative:camera3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|solutionrelative:camera2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|solutionrelative:camera1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\shader.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|solutionrelative:shader.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|solutionrelative:shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,45 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "camera3.cpp",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera3.cpp",
+              "RelativeDocumentMoniker": "camera3.cpp",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera3.cpp",
+              "RelativeToolTip": "camera3.cpp",
+              "ViewState": "AQIAAAsBAAAAAAAAAAAAABgBAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-23T22:23:50.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "camera2.cpp",
               "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera2.cpp",
               "RelativeDocumentMoniker": "camera2.cpp",
               "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera2.cpp",
               "RelativeToolTip": "camera2.cpp",
-              "ViewState": "AQIAAP0AAAAAAAAAAAAAABgBAAAsAAAA",
+              "ViewState": "AQIAAAQBAAAAAAAAAAAmwCIBAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-22T11:23:54.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "shader.vert",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\shader.vert",
-              "RelativeDocumentMoniker": "shader.vert",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\shader.vert",
-              "RelativeToolTip": "shader.vert",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-22T10:53:07.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "shader.frag",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\shader.frag",
-              "RelativeDocumentMoniker": "shader.frag",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\shader.frag",
-              "RelativeToolTip": "shader.frag",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-22T10:52:59.616Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "camera1.cpp",
               "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera1.cpp",
               "RelativeDocumentMoniker": "camera1.cpp",
@@ -77,8 +60,7 @@
               "RelativeToolTip": "camera1.cpp",
               "ViewState": "AQIAAOsAAAAAAAAAAAAAwBQBAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-22T10:51:26.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T10:51:26.11Z"
             }
           ]
         }

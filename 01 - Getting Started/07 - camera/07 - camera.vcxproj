@@ -135,6 +135,7 @@
     <ClCompile Include="..\..\..\..\..\..\..\..\OpenGL\glad\src\glad.c" />
     <ClCompile Include="camera1.cpp" />
     <ClCompile Include="camera2.cpp" />
+    <ClCompile Include="camera3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="shader.frag" />
