@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|solutionrelative:camera4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|solutionrelative:camera6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "camera4.cpp",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera4.cpp",
-              "RelativeDocumentMoniker": "camera4.cpp",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera4.cpp",
-              "RelativeToolTip": "camera4.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Title": "camera6.cpp",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera6.cpp",
+              "RelativeDocumentMoniker": "camera6.cpp",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera6.cpp",
+              "RelativeToolTip": "camera6.cpp",
+              "ViewState": "AQIAACABAAAAAAAAAAAAACgBAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-27T13:04:02.426Z",
+              "WhenOpened": "2024-04-27T14:32:11.515Z",
               "EditorCaption": ""
             }
           ]

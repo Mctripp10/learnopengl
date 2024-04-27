@@ -137,6 +137,8 @@
     <ClCompile Include="camera2.cpp" />
     <ClCompile Include="camera3.cpp" />
     <ClCompile Include="camera4.cpp" />
+    <ClCompile Include="camera5.cpp" />
+    <ClCompile Include="camera6.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="shader.frag" />
