@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|solutionrelative:camera3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|solutionrelative:camera2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|solutionrelative:camera1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|solutionrelative:camera4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "camera3.cpp",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera3.cpp",
-              "RelativeDocumentMoniker": "camera3.cpp",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera3.cpp",
-              "RelativeToolTip": "camera3.cpp",
-              "ViewState": "AQIAAAsBAAAAAAAAAAAAABgBAAAuAAAA",
+              "Title": "camera4.cpp",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera4.cpp",
+              "RelativeDocumentMoniker": "camera4.cpp",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera4.cpp",
+              "RelativeToolTip": "camera4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-23T22:23:50.646Z",
+              "WhenOpened": "2024-04-27T13:04:02.426Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "camera2.cpp",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera2.cpp",
-              "RelativeDocumentMoniker": "camera2.cpp",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera2.cpp",
-              "RelativeToolTip": "camera2.cpp",
-              "ViewState": "AQIAAAQBAAAAAAAAAAAmwCIBAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-22T11:23:54.559Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "camera1.cpp",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera1.cpp",
-              "RelativeDocumentMoniker": "camera1.cpp",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera1.cpp",
-              "RelativeToolTip": "camera1.cpp",
-              "ViewState": "AQIAAOsAAAAAAAAAAAAAwBQBAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-22T10:51:26.11Z"
             }
           ]
         }

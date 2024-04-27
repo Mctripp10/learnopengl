@@ -1,2 +1,8 @@
-﻿  camera3.cpp
+﻿  camera4.cpp
+C:\Users\Mctri\Workspaces\visual-studio-workspace\OpenGL\learnopengl\01 - Getting Started\07 - camera\camera4.cpp(311,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mctri\Workspaces\visual-studio-workspace\OpenGL\learnopengl\01 - Getting Started\07 - camera\camera4.cpp(312,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mctri\Workspaces\visual-studio-workspace\OpenGL\learnopengl\01 - Getting Started\07 - camera\camera4.cpp(316,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mctri\Workspaces\visual-studio-workspace\OpenGL\learnopengl\01 - Getting Started\07 - camera\camera4.cpp(317,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mctri\Workspaces\visual-studio-workspace\OpenGL\learnopengl\01 - Getting Started\07 - camera\camera4.cpp(318,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mctri\Workspaces\visual-studio-workspace\OpenGL\learnopengl\01 - Getting Started\07 - camera\camera4.cpp(319,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   07 - camera.vcxproj -> C:\Users\Mctri\Workspaces\visual-studio-workspace\OpenGL\learnopengl\01 - Getting Started\07 - camera\x64\Debug\07 - camera.exe
