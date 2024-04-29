@@ -3,8 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|solutionrelative:camera6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\exercise2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|solutionrelative:exercise2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\exercise1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|solutionrelative:exercise1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\OpenGL\\include\\learnopengl\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +21,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "camera.h",
+              "DocumentMoniker": "C:\\OpenGL\\include\\learnopengl\\camera.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OpenGL\\include\\learnopengl\\camera.h",
+              "ToolTip": "C:\\OpenGL\\include\\learnopengl\\camera.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OpenGL\\include\\learnopengl\\camera.h",
+              "ViewState": "AQIAACsAAAAAAAAAAAAmwD8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T11:11:14.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "camera6.cpp",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera6.cpp",
-              "RelativeDocumentMoniker": "camera6.cpp",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\camera6.cpp",
-              "RelativeToolTip": "camera6.cpp",
-              "ViewState": "AQIAACABAAAAAAAAAAAAACgBAAA1AAAA",
+              "Title": "exercise2.cpp",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\exercise2.cpp",
+              "RelativeDocumentMoniker": "exercise2.cpp",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\exercise2.cpp",
+              "RelativeToolTip": "exercise2.cpp",
+              "ViewState": "AQIAAHQBAAAAAAAAAAAYwH0BAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-27T14:32:11.515Z",
+              "WhenOpened": "2024-04-29T11:09:21.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "exercise1.cpp",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\exercise1.cpp",
+              "RelativeDocumentMoniker": "exercise1.cpp",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\exercise1.cpp",
+              "RelativeToolTip": "exercise1.cpp",
+              "ViewState": "AQIAADcBAAAAAAAAAAAUwEoBAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T10:56:10.937Z",
               "EditorCaption": ""
             }
           ]
