@@ -141,6 +141,7 @@
     <ClCompile Include="camera6.cpp" />
     <ClCompile Include="exercise1.cpp" />
     <ClCompile Include="exercise2.cpp" />
+    <ClCompile Include="project.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="shader.frag" />
