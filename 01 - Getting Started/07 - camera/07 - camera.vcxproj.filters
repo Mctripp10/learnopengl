@@ -45,7 +45,7 @@
     <ClCompile Include="exercise2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="project.cpp">
+    <ClCompile Include="fibonacciBoxes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
