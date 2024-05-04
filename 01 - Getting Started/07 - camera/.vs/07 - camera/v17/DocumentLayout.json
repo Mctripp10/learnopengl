@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\fibonacciBoxes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|solutionrelative:fibonacciBoxes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\exercise2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A77AFB24-ABAF-4515-8EBE-83412F69C5C0}|07 - camera.vcxproj|solutionrelative:exercise2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "exercise2.cpp",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\exercise2.cpp",
+              "RelativeDocumentMoniker": "exercise2.cpp",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\exercise2.cpp",
+              "RelativeToolTip": "exercise2.cpp",
+              "ViewState": "AQIAAHwBAAAAAAAAAAAgwKoBAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-04T17:09:51.393Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "fibonacciBoxes.cpp",
               "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\01 - Getting Started\\07 - camera\\fibonacciBoxes.cpp",
               "RelativeToolTip": "fibonacciBoxes.cpp",
-              "ViewState": "AQIAAPMAAAAAAAAAAAAAABMBAAA6AAAA",
+              "ViewState": "AQIAADABAAAAAAAAAAAgwD4BAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-02T11:25:57.022Z",
               "EditorCaption": ""

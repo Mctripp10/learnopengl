@@ -11,10 +11,11 @@
 //
 //#include <iostream>
 //
-//// Camera 5
-//// Implements camera movement look around based on mouse input
-//// **Added FOV-based zoom feature
-//// 4-27-2024
+//// Camera - Exercise 2
+//// Try to create your own LookAt function where you manually create a view matrix as discussed at the start of this chapter. 
+//// Replace glm's LookAt function with your own implementation and see if it still acts the same.
+//// 
+//// 4-29-2024
 //
 //void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 //void mouse_callback(GLFWwindow* window, double xpos, double ypos);
