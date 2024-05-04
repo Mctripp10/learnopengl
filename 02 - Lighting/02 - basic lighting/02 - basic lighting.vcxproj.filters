@@ -24,18 +24,27 @@
     <ClCompile Include="..\..\..\..\..\..\..\..\OpenGL\glad\src\glad.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="basic_lighting2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="lightSource.vert">
+    <None Include="lightSource1.vert">
       <Filter>Shaders</Filter>
     </None>
-    <None Include="lightSource.frag">
+    <None Include="lightSource1.frag">
       <Filter>Shaders</Filter>
     </None>
     <None Include="colors.frag">
       <Filter>Shaders</Filter>
     </None>
     <None Include="colors.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="lightSource2.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="lightSource2.frag">
       <Filter>Shaders</Filter>
     </None>
   </ItemGroup>
