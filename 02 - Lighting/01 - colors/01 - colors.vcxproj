@@ -133,6 +133,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\..\..\..\..\OpenGL\glad\src\glad.c" />
+    <ClCompile Include="colors1.5.cpp" />
     <ClCompile Include="colors1.cpp" />
     <ClCompile Include="colors2.cpp" />
   </ItemGroup>

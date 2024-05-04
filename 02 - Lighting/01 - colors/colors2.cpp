@@ -11,11 +11,10 @@
 //
 //#include <iostream>
 //
-//// Camera - Exercise 2
-//// Try to create your own LookAt function where you manually create a view matrix as discussed at the start of this chapter. 
-//// Replace glm's LookAt function with your own implementation and see if it still acts the same.
-//// 
-//// 4-29-2024
+//// Colors 2
+//// Same as colors 1 except the blue component of the light source changes over time according to a sin wave
+////
+//// 5-4-2024
 //
 //void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 //void mouse_callback(GLFWwindow* window, double xpos, double ypos);
