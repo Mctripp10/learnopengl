@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\02 - basic lighting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4C738EE-5664-4200-A8BB-F7908EA92258}|02 - basic lighting.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\02 - basic lighting\\basic_lighting2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C4C738EE-5664-4200-A8BB-F7908EA92258}|02 - basic lighting.vcxproj|solutionrelative:basic_lighting2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C4C738EE-5664-4200-A8BB-F7908EA92258}|02 - basic lighting.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\02 - basic lighting\\2.2.basic_lighting.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C4C738EE-5664-4200-A8BB-F7908EA92258}|02 - basic lighting.vcxproj|solutionrelative:2.2.basic_lighting.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4C738EE-5664-4200-A8BB-F7908EA92258}|02 - basic lighting.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\02 - basic lighting\\basic_lighting1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C4C738EE-5664-4200-A8BB-F7908EA92258}|02 - basic lighting.vcxproj|solutionrelative:basic_lighting1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C4C738EE-5664-4200-A8BB-F7908EA92258}|02 - basic lighting.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\02 - basic lighting\\2.2basic_lighting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4C738EE-5664-4200-A8BB-F7908EA92258}|02 - basic lighting.vcxproj|solutionrelative:2.2basic_lighting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4C738EE-5664-4200-A8BB-F7908EA92258}|02 - basic lighting.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\02 - basic lighting\\lightSource1.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C4C738EE-5664-4200-A8BB-F7908EA92258}|02 - basic lighting.vcxproj|solutionrelative:lightSource1.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4C738EE-5664-4200-A8BB-F7908EA92258}|02 - basic lighting.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\02 - basic lighting\\lightSource1.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C4C738EE-5664-4200-A8BB-F7908EA92258}|02 - basic lighting.vcxproj|solutionrelative:lightSource1.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{C4C738EE-5664-4200-A8BB-F7908EA92258}|02 - basic lighting.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\02 - basic lighting\\2.2.basic_lighting.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C4C738EE-5664-4200-A8BB-F7908EA92258}|02 - basic lighting.vcxproj|solutionrelative:2.2.basic_lighting.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "basic_lighting2.cpp",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\02 - basic lighting\\basic_lighting2.cpp",
-              "RelativeDocumentMoniker": "basic_lighting2.cpp",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\02 - basic lighting\\basic_lighting2.cpp",
-              "RelativeToolTip": "basic_lighting2.cpp",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFgAAAA9AAAA",
+              "DocumentIndex": 1,
+              "Title": "2.2basic_lighting.cpp",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\02 - basic lighting\\2.2basic_lighting.cpp",
+              "RelativeDocumentMoniker": "2.2basic_lighting.cpp",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\02 - basic lighting\\2.2basic_lighting.cpp",
+              "RelativeToolTip": "2.2basic_lighting.cpp",
+              "ViewState": "AQIAALkAAAAAAAAAAAAswMUAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-04T21:41:25.716Z",
+              "WhenOpened": "2024-05-07T19:56:32.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2.2.basic_lighting.vert",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\02 - basic lighting\\2.2.basic_lighting.vert",
+              "RelativeDocumentMoniker": "2.2.basic_lighting.vert",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\02 - basic lighting\\2.2.basic_lighting.vert",
+              "RelativeToolTip": "2.2.basic_lighting.vert",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-07T19:56:19.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "lightSource1.frag",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\02 - basic lighting\\lightSource1.frag",
-              "RelativeDocumentMoniker": "lightSource1.frag",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\02 - basic lighting\\lightSource1.frag",
-              "RelativeToolTip": "lightSource1.frag",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Title": "2.2.basic_lighting.frag",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\02 - basic lighting\\2.2.basic_lighting.frag",
+              "RelativeDocumentMoniker": "2.2.basic_lighting.frag",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\02 - basic lighting\\2.2.basic_lighting.frag",
+              "RelativeToolTip": "2.2.basic_lighting.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-04T21:41:18.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "lightSource1.vert",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\02 - basic lighting\\lightSource1.vert",
-              "RelativeDocumentMoniker": "lightSource1.vert",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\02 - basic lighting\\lightSource1.vert",
-              "RelativeToolTip": "lightSource1.vert",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-04T21:32:10.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "basic_lighting1.cpp",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\02 - basic lighting\\basic_lighting1.cpp",
-              "RelativeDocumentMoniker": "basic_lighting1.cpp",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\02 - basic lighting\\basic_lighting1.cpp",
-              "RelativeToolTip": "basic_lighting1.cpp",
-              "ViewState": "AQIAAPQAAAAAAAAAAAAkwAYBAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-04T19:39:30.249Z",
+              "WhenOpened": "2024-05-07T19:56:28.115Z",
               "EditorCaption": ""
             }
           ]

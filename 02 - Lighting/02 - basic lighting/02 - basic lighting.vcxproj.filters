@@ -18,33 +18,33 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="basic_lighting1.cpp">
+    <ClCompile Include="2.1.basic_lighting.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\..\..\..\..\..\..\..\OpenGL\glad\src\glad.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="basic_lighting2.cpp">
+    <ClCompile Include="2.2basic_lighting.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="lightSource1.vert">
+    <None Include="2.1.light_source.vert">
       <Filter>Shaders</Filter>
     </None>
-    <None Include="lightSource1.frag">
+    <None Include="2.1.light_source.frag">
       <Filter>Shaders</Filter>
     </None>
-    <None Include="colors.frag">
+    <None Include="2.1.basic_lighting.frag">
       <Filter>Shaders</Filter>
     </None>
-    <None Include="colors.vert">
+    <None Include="2.1.basic_lighting.vert">
       <Filter>Shaders</Filter>
     </None>
-    <None Include="lightSource2.vert">
+    <None Include="2.2.basic_lighting.vert">
       <Filter>Shaders</Filter>
     </None>
-    <None Include="lightSource2.frag">
+    <None Include="2.2.basic_lighting.frag">
       <Filter>Shaders</Filter>
     </None>
   </ItemGroup>

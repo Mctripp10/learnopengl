@@ -133,16 +133,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\..\..\..\..\OpenGL\glad\src\glad.c" />
-    <ClCompile Include="basic_lighting1.cpp" />
-    <ClCompile Include="basic_lighting2.cpp" />
+    <ClCompile Include="2.1.basic_lighting.cpp" />
+    <ClCompile Include="2.2basic_lighting.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="colors.frag" />
-    <None Include="colors.vert" />
-    <None Include="lightSource1.frag" />
-    <None Include="lightSource1.vert" />
-    <None Include="lightSource2.frag" />
-    <None Include="lightSource2.vert" />
+    <None Include="2.1.basic_lighting.frag" />
+    <None Include="2.1.basic_lighting.vert" />
+    <None Include="2.1.light_source.frag" />
+    <None Include="2.1.light_source.vert" />
+    <None Include="2.2.basic_lighting.frag" />
+    <None Include="2.2.basic_lighting.vert" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
