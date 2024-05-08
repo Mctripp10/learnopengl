@@ -27,6 +27,18 @@
     <ClCompile Include="2.2basic_lighting.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2.3.basic_lighting.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2.3.basic_lighting.frag">
+      <Filter>Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="2.e1.orbiting_light_source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2.e2.lighting_strength_experiment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="2.1.light_source.vert">
@@ -45,6 +57,9 @@
       <Filter>Shaders</Filter>
     </None>
     <None Include="2.2.basic_lighting.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="2.e2.basic_lighting.frag">
       <Filter>Shaders</Filter>
     </None>
   </ItemGroup>

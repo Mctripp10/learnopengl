@@ -1,2 +1,5 @@
-﻿  2.2basic_lighting.cpp
+﻿  2.e2.lighting_strength_experiment.cpp
+C:\Users\Mctri\Workspaces\visual-studio-workspace\OpenGL\learnopengl\02 - Lighting\02 - basic lighting\2.e2.lighting_strength_experiment.cpp(217,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mctri\Workspaces\visual-studio-workspace\OpenGL\learnopengl\02 - Lighting\02 - basic lighting\2.e2.lighting_strength_experiment.cpp(218,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+02 - bas.c4c738ee\x64\Debug\2.3.basic_lighting.obj : warning LNK4042: object specified more than once; extras ignored
   02 - basic lighting.vcxproj -> C:\Users\Mctri\Workspaces\visual-studio-workspace\OpenGL\learnopengl\02 - Lighting\02 - basic lighting\x64\Debug\02 - basic lighting.exe
