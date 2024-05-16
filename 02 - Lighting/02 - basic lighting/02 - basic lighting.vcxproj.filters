@@ -36,7 +36,13 @@
     <ClCompile Include="2.e1.orbiting_light_source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2.e2.lighting_strength_experiment.cpp">
+    <ClCompile Include="2.e2.phong_strength_experiment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2.e3.phong_in_view_space.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2.e4.gouraud_shading.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -60,6 +66,18 @@
       <Filter>Shaders</Filter>
     </None>
     <None Include="2.e2.basic_lighting.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="2.e3.basic_lighting.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="2.e3.basic_lighting.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="2.e4.basic_lighting.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="2.e4.basic_lighting.vert">
       <Filter>Shaders</Filter>
     </None>
   </ItemGroup>

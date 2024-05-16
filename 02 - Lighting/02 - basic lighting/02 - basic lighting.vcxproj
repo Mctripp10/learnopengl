@@ -138,7 +138,9 @@
     <ClCompile Include="2.3.basic_lighting.cpp" />
     <ClCompile Include="2.3.basic_lighting.frag" />
     <ClCompile Include="2.e1.orbiting_light_source.cpp" />
-    <ClCompile Include="2.e2.lighting_strength_experiment.cpp" />
+    <ClCompile Include="2.e2.phong_strength_experiment.cpp" />
+    <ClCompile Include="2.e3.phong_in_view_space.cpp" />
+    <ClCompile Include="2.e4.gouraud_shading.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="2.1.basic_lighting.frag" />
@@ -148,6 +150,10 @@
     <None Include="2.2.basic_lighting.frag" />
     <None Include="2.2.basic_lighting.vert" />
     <None Include="2.e2.basic_lighting.frag" />
+    <None Include="2.e3.basic_lighting.vert" />
+    <None Include="2.e3.basic_lighting.frag" />
+    <None Include="2.e4.basic_lighting.frag" />
+    <None Include="2.e4.basic_lighting.vert" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
