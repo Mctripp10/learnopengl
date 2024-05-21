@@ -133,9 +133,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\..\..\..\..\OpenGL\glad\src\glad.c" />
-    <ClCompile Include="03 - materials.cpp" />
+    <ClCompile Include="3.1.change_light_over_time.cpp" />
+    <ClCompile Include="3.1.materials.cpp" />
+    <ClCompile Include="3.e1.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="3.1.light_source.frag" />
+    <None Include="3.1.light_source.vert" />
     <None Include="3.1.materials.frag" />
     <None Include="3.1.materials.vert" />
   </ItemGroup>
