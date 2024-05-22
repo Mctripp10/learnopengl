@@ -30,6 +30,9 @@
     <ClCompile Include="3.e1.light_cube_color.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3.e2.material_experimentation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="3.1.materials.vert">
