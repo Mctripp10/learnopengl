@@ -27,7 +27,7 @@
     <ClCompile Include="3.1.change_light_over_time.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="3.e1.cpp">
+    <ClCompile Include="3.e1.light_cube_color.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -42,6 +42,9 @@
       <Filter>Shaders</Filter>
     </None>
     <None Include="3.1.light_source.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="3.e1.light_source.frag">
       <Filter>Shaders</Filter>
     </None>
   </ItemGroup>
