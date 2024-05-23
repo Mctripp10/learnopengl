@@ -50,5 +50,11 @@
     <None Include="3.e1.light_source.frag">
       <Filter>Shaders</Filter>
     </None>
+    <None Include="3.e2.materials.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="3.e2.materials.vert">
+      <Filter>Shaders</Filter>
+    </None>
   </ItemGroup>
 </Project>

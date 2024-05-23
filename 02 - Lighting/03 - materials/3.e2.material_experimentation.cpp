@@ -40,7 +40,7 @@ float deltaTime = 0.0f;
 float lastFrame = 0.0f;
 
 // lighting
-glm::vec3 lightPos(1.2f, 1.0f, 2.0f);
+glm::vec3 lightPos(3.0f, 1.0f, 2.0f);
 
 int main()
 {
@@ -138,6 +138,34 @@ int main()
         -0.5f,  0.5f, -0.5f,  0.0f,  1.0f,  0.0f
     };
 
+    // materials
+    float materialTable[][10] = {
+        { 0.0215, 0.1745, 0.0215, 0.07568, 0.61424, 0.07568, 0.633, 0.727811, 0.633, 0.6 },
+        { 0.135, 0.2225, 0.1575, 0.54, 0.89, 0.63, 0.316228, 0.316228, 0.316228, 0.1 },
+        { 0.05375, 0.05, 0.06625, 0.18275, 0.17, 0.22525, 0.332741, 0.328634, 0.346435, 0.3 },
+        { 0.25, 0.20725, 0.20725, 1, 0.829, 0.829, 0.296648, 0.296648, 0.296648, 0.088 },
+        { 0.1745, 0.01175, 0.01175, 0.61424, 0.04136, 0.04136, 0.727811, 0.626959, 0.626959, 0.6 },
+        { 0.1, 0.18725, 0.1745, 0.396, 0.74151, 0.69102, 0.297254, 0.30829, 0.306678, 0.1 },
+        { 0.329412, 0.223529, 0.027451, 0.780392, 0.568627, 0.113725, 0.992157, 0.941176, 0.807843, 0.21794872 },
+        { 0.2125, 0.1275, 0.054, 0.714, 0.4284, 0.18144, 0.393548, 0.271906, 0.166721, 0.2 },
+        { 0.25, 0.25, 0.25, 0.4, 0.4, 0.4, 0.774597, 0.774597, 0.774597, 0.6 },
+        { 0.19125, 0.0735, 0.0225, 0.7038, 0.27048, 0.0828, 0.256777, 0.137622, 0.086014, 0.1 },
+        { 0.24725, 0.1995, 0.0745, 0.75164, 0.60648, 0.22648, 0.628281, 0.555802, 0.366065, 0.4 },
+        { 0.19225, 0.19225, 0.19225, 0.50754, 0.50754, 0.50754, 0.508273, 0.508273, 0.508273, 0.4 },
+        { 0, 0, 0, 0.01, 0.01, 0.01, 0.5, 0.5, 0.5, 0.25 },
+        { 0, 0.1, 0.06, 0, 0.50980392, 0.50980392, 0.50196078, 0.50196078, 0.50196078, 0.25 },
+        { 0, 0, 0, 0.1, 0.35, 0.1, 0.45, 0.55, 0.45, 0.25 },
+        { 0, 0, 0, 0.5, 0, 0, 0.7, 0.6, 0.6, 0.25 },
+        { 0, 0, 0, 0.55, 0.55, 0.55, 0.7, 0.7, 0.7, 0.25 },
+        { 0, 0, 0, 0.5, 0.5, 0, 0.6, 0.6, 0.5, 0.25 },
+        { 0.02, 0.02, 0.02, 0.01, 0.01, 0.01, 0.4, 0.4, 0.4, 0.078125 },
+        { 0, 0.05, 0.05, 0.4, 0.5, 0.5, 0.04, 0.7, 0.7, 0.078125 },
+        { 0, 0.05, 0, 0.4, 0.5, 0.4, 0.04, 0.7, 0.04, 0.078125 },
+        { 0.05, 0, 0, 0.5, 0.4, 0.4, 0.7, 0.04, 0.04, 0.078125 },
+        { 0.05, 0.05, 0.05, 0.5, 0.5, 0.5, 0.7, 0.7, 0.7, 0.078125 },
+        { 0.05, 0.05, 0, 0.5, 0.5, 0.4, 0.7, 0.7, 0.04, 0.078125 }
+    };
+
     // first, configure the cube's VAO (and VBO)
     unsigned int VBO, cubeVAO;
     glGenVertexArrays(1, &cubeVAO);
@@ -190,15 +218,9 @@ int main()
         lightingShader.setVec3("light.position", lightPos);
         lightingShader.setVec3("viewPos", camera.Position);
 
-        // material properties
-        lightingShader.setVec3("material.ambient", 1.0f, 0.5f, 0.31f);
-        lightingShader.setVec3("material.diffuse", 1.0f, 0.5f, 0.31f);
-        lightingShader.setVec3("material.specular", 0.5f, 0.5f, 0.5f); // specular lighting doesn't have full effect on this object's material
-        lightingShader.setFloat("material.shininess", 32.0f);
-
         // light properties
-        lightingShader.setVec3("light.ambient", 0.2f, 0.2f, 0.2f);
-        lightingShader.setVec3("light.diffuse", 0.5f, 0.5f, 0.5f); // darken diffuse light a bit
+        lightingShader.setVec3("light.ambient", 1.0f, 1.0f, 1.0f);      // Set all to full intensity to use OpenGL/VRML Materials table
+        lightingShader.setVec3("light.diffuse", 1.0f, 1.0f, 1.0f);      // (It does not take light intensities into account)
         lightingShader.setVec3("light.specular", 1.0f, 1.0f, 1.0f);
 
         // view/projection transformations
@@ -210,10 +232,25 @@ int main()
         glm::mat4 model;
 
         for (int i = 0; i < 10; i++) {
+            // material properties
+            glm::vec3 ambient = glm::vec3(materialTable[i][0], materialTable[i][1], materialTable[i][2]);
+            glm::vec3 diffuse = glm::vec3(materialTable[i][3], materialTable[i][4], materialTable[i][5]);
+            glm::vec3 specular = glm::vec3(materialTable[i][6], materialTable[i][7], materialTable[i][8]);
+            float shininess = materialTable[i][9];
+
+            lightingShader.setVec3("material.ambient", ambient);
+            lightingShader.setVec3("material.diffuse", diffuse);
+            lightingShader.setVec3("material.specular", specular);
+            lightingShader.setFloat("material.shininess", shininess);
+
             // world transformation
             model = glm::mat4(1.0f);
-            glm::translate(model, glm::vec3(static_cast<float>(5 * i), 0.0f, 0.0f));
-            std::cout << (float)(5 * i) << "\n";
+            if (i < 5) {
+                model = glm::translate(model, glm::vec3(static_cast<float>(i * 1.25f), 0.0f, 0.0f));
+            }
+            else {
+                model = glm::translate(model, glm::vec3(static_cast<float>((i-5) * 1.25f), 1.25f, 0.0f));
+            }
             lightingShader.setMat4("model", model);
             // render the cube
             glBindVertexArray(cubeVAO);

@@ -7,24 +7,16 @@
       "RelativeMoniker": "D:0:0:{CA6F946E-56C7-48F2-AA3F-0E4A03F8E32D}|03 - materials.vcxproj|solutionrelative:3.e2.material_experimentation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA6F946E-56C7-48F2-AA3F-0E4A03F8E32D}|03 - materials.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\03 - materials\\3.e1.light_cube_color.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CA6F946E-56C7-48F2-AA3F-0E4A03F8E32D}|03 - materials.vcxproj|solutionrelative:3.e1.light_cube_color.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CA6F946E-56C7-48F2-AA3F-0E4A03F8E32D}|03 - materials.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\03 - materials\\3.e2.materials.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CA6F946E-56C7-48F2-AA3F-0E4A03F8E32D}|03 - materials.vcxproj|solutionrelative:3.e2.materials.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6F946E-56C7-48F2-AA3F-0E4A03F8E32D}|03 - materials.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\03 - materials\\3.e2.materials.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CA6F946E-56C7-48F2-AA3F-0E4A03F8E32D}|03 - materials.vcxproj|solutionrelative:3.e2.materials.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA6F946E-56C7-48F2-AA3F-0E4A03F8E32D}|03 - materials.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\03 - materials\\3.e1.light_source.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{CA6F946E-56C7-48F2-AA3F-0E4A03F8E32D}|03 - materials.vcxproj|solutionrelative:3.e1.light_source.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA6F946E-56C7-48F2-AA3F-0E4A03F8E32D}|03 - materials.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\03 - materials\\3.1.materials.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{CA6F946E-56C7-48F2-AA3F-0E4A03F8E32D}|03 - materials.vcxproj|solutionrelative:3.1.materials.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA6F946E-56C7-48F2-AA3F-0E4A03F8E32D}|03 - materials.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\03 - materials\\3.1.change_light_over_time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CA6F946E-56C7-48F2-AA3F-0E4A03F8E32D}|03 - materials.vcxproj|solutionrelative:3.1.change_light_over_time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA6F946E-56C7-48F2-AA3F-0E4A03F8E32D}|03 - materials.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\03 - materials\\3.1.materials.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{CA6F946E-56C7-48F2-AA3F-0E4A03F8E32D}|03 - materials.vcxproj|solutionrelative:3.1.materials.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,14 +36,41 @@
               "RelativeDocumentMoniker": "3.e2.material_experimentation.cpp",
               "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\03 - materials\\3.e2.material_experimentation.cpp",
               "RelativeToolTip": "3.e2.material_experimentation.cpp",
-              "ViewState": "AQIAALoAAAAAAAAAAAAAANgAAAAAAAAA",
+              "ViewState": "AQIAANMAAAAAAAAAAAAQwOkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-22T11:21:16.917Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3.e2.materials.vert",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\03 - materials\\3.e2.materials.vert",
+              "RelativeDocumentMoniker": "3.e2.materials.vert",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\03 - materials\\3.e2.materials.vert",
+              "RelativeToolTip": "3.e2.materials.vert",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-23T22:01:24.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "3.e2.materials.frag",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\03 - materials\\3.e2.materials.frag",
+              "RelativeDocumentMoniker": "3.e2.materials.frag",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\03 - materials\\3.e2.materials.frag",
+              "RelativeToolTip": "3.e2.materials.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-23T21:57:44.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "3.e1.light_source.frag",
               "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\03 - materials\\3.e1.light_source.frag",
               "RelativeDocumentMoniker": "3.e1.light_source.frag",
@@ -59,56 +78,8 @@
               "RelativeToolTip": "3.e1.light_source.frag",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-22T11:16:50.375Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "3.e1.light_cube_color.cpp",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\03 - materials\\3.e1.light_cube_color.cpp",
-              "RelativeDocumentMoniker": "3.e1.light_cube_color.cpp",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\03 - materials\\3.e1.light_cube_color.cpp",
-              "RelativeToolTip": "3.e1.light_cube_color.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-21T11:13:51.3Z",
+              "WhenOpened": "2024-05-22T11:16:50.375Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "3.1.change_light_over_time.cpp",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\03 - materials\\3.1.change_light_over_time.cpp",
-              "RelativeDocumentMoniker": "3.1.change_light_over_time.cpp",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\03 - materials\\3.1.change_light_over_time.cpp",
-              "RelativeToolTip": "3.1.change_light_over_time.cpp",
-              "ViewState": "AQIAAA0BAAAAAAAAAAAiwDIBAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-21T11:41:54.363Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "3.1.materials.frag",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\03 - materials\\3.1.materials.frag",
-              "RelativeDocumentMoniker": "3.1.materials.frag",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\03 - materials\\3.1.materials.frag",
-              "RelativeToolTip": "3.1.materials.frag",
-              "ViewState": "AQIAAA8AAAAAAAAAAADwvw8AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-16T11:33:53.383Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "3.1.materials.vert",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\03 - materials\\3.1.materials.vert",
-              "RelativeDocumentMoniker": "3.1.materials.vert",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\03 - materials\\3.1.materials.vert",
-              "RelativeToolTip": "3.1.materials.vert",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-16T11:33:06.306Z"
             }
           ]
         }
