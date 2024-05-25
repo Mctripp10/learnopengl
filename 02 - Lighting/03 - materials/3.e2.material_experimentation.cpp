@@ -30,7 +30,7 @@ const unsigned int SCR_WIDTH = 800;
 const unsigned int SCR_HEIGHT = 600;
 
 // camera
-Camera camera(glm::vec3(0.0f, 0.0f, 3.0f));
+Camera camera(glm::vec3(2.5f, 2.5f, 9.0f));
 float lastX = SCR_WIDTH / 2.0f;
 float lastY = SCR_HEIGHT / 2.0f;
 bool firstMouse = true;
@@ -88,7 +88,7 @@ int main()
 
     // build and compile our shader program
     // ------------------------------------
-    Shader lightingShader("3.1.materials.vert", "3.1.materials.frag");
+    Shader lightingShader("3.e2.materials.vert", "3.e2.materials.frag");
     Shader lightCubeShader("3.1.light_source.vert", "3.1.light_source.frag");
 
     // set up vertex data (and buffer(s)) and configure vertex attributes
@@ -163,7 +163,8 @@ int main()
         { 0, 0.05, 0, 0.4, 0.5, 0.4, 0.04, 0.7, 0.04, 0.078125 },
         { 0.05, 0, 0, 0.5, 0.4, 0.4, 0.7, 0.04, 0.04, 0.078125 },
         { 0.05, 0.05, 0.05, 0.5, 0.5, 0.5, 0.7, 0.7, 0.7, 0.078125 },
-        { 0.05, 0.05, 0, 0.5, 0.5, 0.4, 0.7, 0.7, 0.04, 0.078125 }
+        { 0.05, 0.05, 0, 0.5, 0.5, 0.4, 0.7, 0.7, 0.04, 0.078125 },
+        { 1.0f, 0.5f, 0.31f, 1.0f, 0.5f, 0.31f, 0.5f, 0.5f, 0.5f, 32.0f }
     };
 
     // first, configure the cube's VAO (and VBO)
@@ -194,6 +195,9 @@ int main()
     glVertexAttribPointer(0, 3, GL_FLOAT, GL_FALSE, 6 * sizeof(float), (void*)0);
     glEnableVertexAttribArray(0);
 
+    float radius = 0.0f;
+    float inc = 0.0002f;
+
     // render loop
     // -----------
     while (!glfwWindowShouldClose(window))
@@ -219,8 +223,8 @@ int main()
         lightingShader.setVec3("viewPos", camera.Position);
 
         // light properties
-        lightingShader.setVec3("light.ambient", 1.0f, 1.0f, 1.0f);      // Set all to full intensity to use OpenGL/VRML Materials table
-        lightingShader.setVec3("light.diffuse", 1.0f, 1.0f, 1.0f);      // (It does not take light intensities into account)
+        lightingShader.setVec3("light.ambient", 0.2f, 0.2f, 0.2f);
+        lightingShader.setVec3("light.diffuse", 0.5f, 0.5f, 0.5f); // darken diffuse light a bit
         lightingShader.setVec3("light.specular", 1.0f, 1.0f, 1.0f);
 
         // view/projection transformations
@@ -231,12 +235,12 @@ int main()
 
         glm::mat4 model;
 
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 25; i++) {
             // material properties
             glm::vec3 ambient = glm::vec3(materialTable[i][0], materialTable[i][1], materialTable[i][2]);
             glm::vec3 diffuse = glm::vec3(materialTable[i][3], materialTable[i][4], materialTable[i][5]);
             glm::vec3 specular = glm::vec3(materialTable[i][6], materialTable[i][7], materialTable[i][8]);
-            float shininess = materialTable[i][9];
+            float shininess = materialTable[i][9] * 32.0f;
 
             lightingShader.setVec3("material.ambient", ambient);
             lightingShader.setVec3("material.diffuse", diffuse);
@@ -245,12 +249,7 @@ int main()
 
             // world transformation
             model = glm::mat4(1.0f);
-            if (i < 5) {
-                model = glm::translate(model, glm::vec3(static_cast<float>(i * 1.25f), 0.0f, 0.0f));
-            }
-            else {
-                model = glm::translate(model, glm::vec3(static_cast<float>((i-5) * 1.25f), 1.25f, 0.0f));
-            }
+            model = glm::translate(model, glm::vec3(static_cast<float>((i % 5) * 1.25f), static_cast<float>(ceil(i/5) * 1.25f), 0.0f));
             lightingShader.setMat4("model", model);
             // render the cube
             glBindVertexArray(cubeVAO);
@@ -262,6 +261,19 @@ int main()
         lightCubeShader.setMat4("projection", projection);
         lightCubeShader.setMat4("view", view);
         model = glm::mat4(1.0f);
+
+        std::cout << radius << "\n";
+
+        if (radius >= 4.5f) {
+            inc = -inc;
+        } else if (radius < 0.0f) {
+            inc = -inc;
+        }
+        radius += inc;
+
+        
+        lightPos.x = static_cast<float>(sin(glfwGetTime()) * radius) + 2.5f;
+        lightPos.y = static_cast<float>(cos(glfwGetTime()) * radius) + 2.5f;
         model = glm::translate(model, lightPos);
         model = glm::scale(model, glm::vec3(0.2f)); // a smaller cube
         lightCubeShader.setMat4("model", model);
