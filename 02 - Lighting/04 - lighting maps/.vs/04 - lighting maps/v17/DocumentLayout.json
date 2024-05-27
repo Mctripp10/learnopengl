@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.2.specular_map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|solutionrelative:4.2.specular_map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.1.diffuse_map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|solutionrelative:4.1.diffuse_map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.2.lighting_maps.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|solutionrelative:4.2.lighting_maps.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 188,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "4.1.diffuse_map.cpp",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.1.diffuse_map.cpp",
+              "RelativeDocumentMoniker": "4.1.diffuse_map.cpp",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.1.diffuse_map.cpp",
+              "RelativeToolTip": "4.1.diffuse_map.cpp",
+              "ViewState": "AQIAACwBAAAAAAAAAAAQwF8BAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-27T23:02:08.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4.2.lighting_maps.frag",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.2.lighting_maps.frag",
+              "RelativeDocumentMoniker": "4.2.lighting_maps.frag",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.2.lighting_maps.frag",
+              "RelativeToolTip": "4.2.lighting_maps.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-27T22:53:22.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4.2.specular_map.cpp",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.2.specular_map.cpp",
+              "RelativeDocumentMoniker": "4.2.specular_map.cpp",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.2.specular_map.cpp",
+              "RelativeToolTip": "4.2.specular_map.cpp",
+              "ViewState": "AQIAADEBAAAAAAAAAAAQwEUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-27T22:41:21.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

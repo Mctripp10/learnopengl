@@ -1,5 +1,4 @@
-﻿  3.1.materials.cpp
-  3.e2.material_experimentation.cpp
+﻿  3.e2.material_experimentation.cpp
 C:\Users\Mctri\Workspaces\visual-studio-workspace\OpenGL\learnopengl\02 - Lighting\03 - materials\3.e2.material_experimentation.cpp(143,11): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\Mctri\Workspaces\visual-studio-workspace\OpenGL\learnopengl\02 - Lighting\03 - materials\3.e2.material_experimentation.cpp(143,19): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\Mctri\Workspaces\visual-studio-workspace\OpenGL\learnopengl\02 - Lighting\03 - materials\3.e2.material_experimentation.cpp(143,27): warning C4305: 'initializing': truncation from 'double' to 'float'
@@ -181,5 +180,4 @@ C:\Users\Mctri\Workspaces\visual-studio-workspace\OpenGL\learnopengl\02 - Lighti
 C:\Users\Mctri\Workspaces\visual-studio-workspace\OpenGL\learnopengl\02 - Lighting\03 - materials\3.e2.material_experimentation.cpp(166,41): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\Mctri\Workspaces\visual-studio-workspace\OpenGL\learnopengl\02 - Lighting\03 - materials\3.e2.material_experimentation.cpp(166,46): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\Mctri\Workspaces\visual-studio-workspace\OpenGL\learnopengl\02 - Lighting\03 - materials\3.e2.material_experimentation.cpp(166,51): warning C4305: 'initializing': truncation from 'double' to 'float'
-  Generating Code...
   03 - materials.vcxproj -> C:\Users\Mctri\Workspaces\visual-studio-workspace\OpenGL\learnopengl\02 - Lighting\03 - materials\x64\Debug\03 - materials.exe
