@@ -27,6 +27,24 @@
     <ClCompile Include="4.2.specular_map.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="4.e1.light_source_props.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4.e2.invert_spec_map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4.e3.colored_spec_map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4.e4.emission_map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4.3.emission_fun.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4.4.emission_fun2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="4.1.lighting_maps.vert">
@@ -42,6 +60,15 @@
       <Filter>Shaders</Filter>
     </None>
     <None Include="4.2.lighting_maps.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="4.e2.lighting_maps.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="4.e4.lighting_maps.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="4.3.lighting_maps.frag">
       <Filter>Shaders</Filter>
     </None>
   </ItemGroup>
