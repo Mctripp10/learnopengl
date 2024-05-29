@@ -3,36 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.e3.colored_spec_map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|solutionrelative:4.e3.colored_spec_map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.e4.emission_map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|solutionrelative:4.e4.emission_map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.4.emission_fun2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|solutionrelative:4.4.emission_fun2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.3.emission_fun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|solutionrelative:4.3.emission_fun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.2.specular_map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|solutionrelative:4.2.specular_map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.1.diffuse_map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|solutionrelative:4.1.diffuse_map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.1.lighting_maps.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|solutionrelative:4.1.lighting_maps.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.3.lighting_maps.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|solutionrelative:4.3.lighting_maps.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.2.lighting_maps.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|solutionrelative:4.2.lighting_maps.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.e4.lighting_maps.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|solutionrelative:4.e4.lighting_maps.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.e3.colored_spec_map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99B6DD37-12BD-4E50-9094-0F4B1DF3AE92}|04 - lighting maps.vcxproj|solutionrelative:4.e3.colored_spec_map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +26,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 188,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "4.1.lighting_maps.vert",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.1.lighting_maps.vert",
+              "RelativeDocumentMoniker": "4.1.lighting_maps.vert",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.1.lighting_maps.vert",
+              "RelativeToolTip": "4.1.lighting_maps.vert",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-29T11:00:07.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4.2.lighting_maps.frag",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.2.lighting_maps.frag",
+              "RelativeDocumentMoniker": "4.2.lighting_maps.frag",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.2.lighting_maps.frag",
+              "RelativeToolTip": "4.2.lighting_maps.frag",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvywAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-29T10:58:11.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "4.e3.colored_spec_map.cpp",
               "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.e3.colored_spec_map.cpp",
               "RelativeDocumentMoniker": "4.e3.colored_spec_map.cpp",
               "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.e3.colored_spec_map.cpp",
               "RelativeToolTip": "4.e3.colored_spec_map.cpp",
-              "ViewState": "AQIAADIBAAAAAAAAAAAQwEwBAAAgAAAA",
+              "ViewState": "AQIAAD8BAAAAAAAAAAAqwEwBAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-29T02:30:17.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T02:30:17.293Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "4.1.diffuse_map.cpp",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.1.diffuse_map.cpp",
-              "RelativeDocumentMoniker": "4.1.diffuse_map.cpp",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.1.diffuse_map.cpp",
-              "RelativeToolTip": "4.1.diffuse_map.cpp",
-              "ViewState": "AQIAACwBAAAAAAAAAAAQwF8BAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-29T02:23:32.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "4.4.emission_fun2.cpp",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.4.emission_fun2.cpp",
-              "RelativeDocumentMoniker": "4.4.emission_fun2.cpp",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.4.emission_fun2.cpp",
-              "RelativeToolTip": "4.4.emission_fun2.cpp",
-              "ViewState": "AQIAADcBAAAAAAAAAAAQwFABAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-29T02:22:26.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "4.2.specular_map.cpp",
               "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.2.specular_map.cpp",
               "RelativeDocumentMoniker": "4.2.specular_map.cpp",
               "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.2.specular_map.cpp",
               "RelativeToolTip": "4.2.specular_map.cpp",
-              "ViewState": "AQIAADEBAAAAAAAAAAAQwGQBAAADAAAA",
+              "ViewState": "AQIAAD8BAAAAAAAAAAAiwFUBAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-28T23:57:28.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "4.3.lighting_maps.frag",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.3.lighting_maps.frag",
-              "RelativeDocumentMoniker": "4.3.lighting_maps.frag",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.3.lighting_maps.frag",
-              "RelativeToolTip": "4.3.lighting_maps.frag",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAowDIAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-28T23:29:28.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "4.3.emission_fun.cpp",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.3.emission_fun.cpp",
-              "RelativeDocumentMoniker": "4.3.emission_fun.cpp",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.3.emission_fun.cpp",
-              "RelativeToolTip": "4.3.emission_fun.cpp",
-              "ViewState": "AQIAAE4BAAAAAAAAAAAQwIEBAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-28T23:28:59.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "4.e4.lighting_maps.frag",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.e4.lighting_maps.frag",
-              "RelativeDocumentMoniker": "4.e4.lighting_maps.frag",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.e4.lighting_maps.frag",
-              "RelativeToolTip": "4.e4.lighting_maps.frag",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-28T23:11:09.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "4.e4.emission_map.cpp",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.e4.emission_map.cpp",
-              "RelativeDocumentMoniker": "4.e4.emission_map.cpp",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\04 - lighting maps\\4.e4.emission_map.cpp",
-              "RelativeToolTip": "4.e4.emission_map.cpp",
-              "ViewState": "AQIAADoBAAAAAAAAAAAQwG0BAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-28T22:58:33.521Z",
               "EditorCaption": ""
             }
           ]
