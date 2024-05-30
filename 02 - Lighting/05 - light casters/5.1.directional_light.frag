@@ -8,7 +8,7 @@ struct Material {
 }; 
 
 struct Light {
-    // vec3 position;   // no longer necessary when using directional lights
+    // vec3 position;   // not necessary when using directional lights
     vec3 direction;
 
     vec3 ambient;

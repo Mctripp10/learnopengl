@@ -18,12 +18,12 @@ void scroll_callback(GLFWwindow* window, double xoffset, double yoffset);
 void processInput(GLFWwindow* window);
 unsigned int loadTexture(char const* path);
 
-// Lighting Maps 2
+// Light Casters 3
 //
-// Lighting maps on a cube textured as a box with steel frames
-// This program implements a specular lighting map to vary the specular highlights cast on the steel frames vs wood parts of the texture
+// Implements a spotlight, a light source that is located somewhere in the environment that, instead of shooting light rays in all directions, only shoots them in a specific direction
+// This particular implementation involves shooting the spotlight out from the user's position like a flashlight
 // 
-// 5-27-2024
+// 5-30-2024
 
 // settings
 const unsigned int SCR_WIDTH = 800;
@@ -213,7 +213,6 @@ int main()
 
         // be sure to activate shader when setting uniforms/drawing objects
         lightingShader.use();
-        lightingShader.setVec3("light.position", lightPos);
         lightingShader.setVec3("viewPos", camera.Position);
 
         // material properties
@@ -228,9 +227,10 @@ int main()
         lightingShader.setFloat("light.quadratic", 0.032f);
         lightingShader.setVec3("light.position", camera.Position);
         lightingShader.setVec3("light.direction", camera.Front);
-        // use cos of the angle here because this will be compared to the dot of LightDir and SpotDir, 
+        // use cos of the angles here because this will be compared to the dot of LightDir and SpotDir, 
         // which returns a cos value, and it is less computationally expensive to calc cos here than in shader
         lightingShader.setFloat("light.cutOff", glm::cos(glm::radians(12.5f)));     
+        lightingShader.setFloat("light.outerCutOff", glm::cos(glm::radians(17.5f)));
 
         // view/projection transformations
         glm::mat4 projection = glm::perspective(glm::radians(camera.Zoom), (float)SCR_WIDTH / (float)SCR_HEIGHT, 0.1f, 100.0f);
@@ -258,18 +258,6 @@ int main()
             lightingShader.setMat4("model", model);
             glDrawArrays(GL_TRIANGLES, 0, 36);
         }
-
-        // also draw the lamp object
-        lightCubeShader.use();
-        lightCubeShader.setMat4("projection", projection);
-        lightCubeShader.setMat4("view", view);
-        model = glm::mat4(1.0f);
-        model = glm::translate(model, lightPos);
-        model = glm::scale(model, glm::vec3(0.2f)); // a smaller cube
-        lightCubeShader.setMat4("model", model);
-
-        glBindVertexArray(lightCubeVAO);
-        glDrawArrays(GL_TRIANGLES, 0, 36);
 
         // glfw: swap buffers and poll IO events (keys pressed/released, mouse moved etc.)
         // -------------------------------------------------------------------------------

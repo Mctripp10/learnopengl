@@ -136,6 +136,9 @@
     <ClCompile Include="5.1.directional_light.cpp" />
     <ClCompile Include="5.2.point_light.cpp" />
     <ClCompile Include="5.3.spotlight.cpp" />
+    <ClCompile Include="5.e1.dir_light_exp.cpp" />
+    <ClCompile Include="5.e1.point_light_exp.cpp" />
+    <ClCompile Include="5.e1.spotlight_exp.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="5.1.directional_light.frag" />
@@ -144,6 +147,8 @@
     <None Include="5.1.light_source.vert" />
     <None Include="5.2.point_light.frag" />
     <None Include="5.3.spotlight.frag" />
+    <None Include="5.e1.point_light_exp.frag" />
+    <None Include="5.e1.spotlight_exp.frag" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

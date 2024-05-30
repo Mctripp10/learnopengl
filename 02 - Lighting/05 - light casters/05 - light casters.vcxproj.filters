@@ -30,6 +30,15 @@
     <ClCompile Include="5.3.spotlight.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="5.e1.dir_light_exp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="5.e1.point_light_exp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="5.e1.spotlight_exp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="5.1.light_source.vert">
@@ -48,6 +57,12 @@
       <Filter>Shaders</Filter>
     </None>
     <None Include="5.3.spotlight.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="5.e1.point_light_exp.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="5.e1.spotlight_exp.frag">
       <Filter>Shaders</Filter>
     </None>
   </ItemGroup>
