@@ -88,7 +88,7 @@ int main()
 
     // build and compile our shader program
     // ------------------------------------
-    Shader lightingShader("5.1.light_casters.vert", "5.2.point_light.frag");
+    Shader lightingShader("5.1.light_casters.vert", "5.3.spotlight.frag");
     Shader lightCubeShader("5.1.light_source.vert", "5.1.light_source.frag");
 
     // set up vertex data (and buffer(s)) and configure vertex attributes
@@ -226,6 +226,11 @@ int main()
         lightingShader.setFloat("light.constant", 1.0f);
         lightingShader.setFloat("light.linear", 0.09f);
         lightingShader.setFloat("light.quadratic", 0.032f);
+        lightingShader.setVec3("light.position", camera.Position);
+        lightingShader.setVec3("light.direction", camera.Front);
+        // use cos of the angle here because this will be compared to the dot of LightDir and SpotDir, 
+        // which returns a cos value, and it is less computationally expensive to calc cos here than in shader
+        lightingShader.setFloat("light.cutOff", glm::cos(glm::radians(12.5f)));     
 
         // view/projection transformations
         glm::mat4 projection = glm::perspective(glm::radians(camera.Zoom), (float)SCR_WIDTH / (float)SCR_HEIGHT, 0.1f, 100.0f);
