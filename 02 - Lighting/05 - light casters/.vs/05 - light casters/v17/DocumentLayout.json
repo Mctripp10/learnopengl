@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0571D047-8C73-4BD0-B0CD-551CCFB3D874}|05 - light casters.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.3.spotlight.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0571D047-8C73-4BD0-B0CD-551CCFB3D874}|05 - light casters.vcxproj|solutionrelative:5.3.spotlight.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{0571D047-8C73-4BD0-B0CD-551CCFB3D874}|05 - light casters.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.4.spotlight_smoother_edges.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0571D047-8C73-4BD0-B0CD-551CCFB3D874}|05 - light casters.vcxproj|solutionrelative:5.4.spotlight_smoother_edges.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0571D047-8C73-4BD0-B0CD-551CCFB3D874}|05 - light casters.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.e1.spotlight_exp.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0571D047-8C73-4BD0-B0CD-551CCFB3D874}|05 - light casters.vcxproj|solutionrelative:5.e1.spotlight_exp.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{0571D047-8C73-4BD0-B0CD-551CCFB3D874}|05 - light casters.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.4.spotlight_smoother_edges.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0571D047-8C73-4BD0-B0CD-551CCFB3D874}|05 - light casters.vcxproj|solutionrelative:5.4.spotlight_smoother_edges.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0571D047-8C73-4BD0-B0CD-551CCFB3D874}|05 - light casters.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.3.spotlight.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0571D047-8C73-4BD0-B0CD-551CCFB3D874}|05 - light casters.vcxproj|solutionrelative:5.3.spotlight.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0571D047-8C73-4BD0-B0CD-551CCFB3D874}|05 - light casters.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.3.spotlight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -17,6 +21,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{0571D047-8C73-4BD0-B0CD-551CCFB3D874}|05 - light casters.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.e1.spotlight_exp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0571D047-8C73-4BD0-B0CD-551CCFB3D874}|05 - light casters.vcxproj|solutionrelative:5.e1.spotlight_exp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0571D047-8C73-4BD0-B0CD-551CCFB3D874}|05 - light casters.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.2.point_light.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0571D047-8C73-4BD0-B0CD-551CCFB3D874}|05 - light casters.vcxproj|solutionrelative:5.2.point_light.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0571D047-8C73-4BD0-B0CD-551CCFB3D874}|05 - light casters.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.e1.spotlight_exp.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0571D047-8C73-4BD0-B0CD-551CCFB3D874}|05 - light casters.vcxproj|solutionrelative:5.e1.spotlight_exp.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0571D047-8C73-4BD0-B0CD-551CCFB3D874}|05 - light casters.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.e1.point_light_exp.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -33,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0571D047-8C73-4BD0-B0CD-551CCFB3D874}|05 - light casters.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.e1.dir_light_exp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0571D047-8C73-4BD0-B0CD-551CCFB3D874}|05 - light casters.vcxproj|solutionrelative:5.e1.dir_light_exp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0571D047-8C73-4BD0-B0CD-551CCFB3D874}|05 - light casters.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.2.point_light.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0571D047-8C73-4BD0-B0CD-551CCFB3D874}|05 - light casters.vcxproj|solutionrelative:5.2.point_light.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0571D047-8C73-4BD0-B0CD-551CCFB3D874}|05 - light casters.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.1.directional_light.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -59,58 +67,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "5.e1.spotlight_exp.frag",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.e1.spotlight_exp.frag",
-              "RelativeDocumentMoniker": "5.e1.spotlight_exp.frag",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.e1.spotlight_exp.frag",
-              "RelativeToolTip": "5.e1.spotlight_exp.frag",
-              "ViewState": "AQIAACAAAAAAAAAAAAAmwDsAAAAcAAAA",
+              "Title": "5.4.spotlight_smoother_edges.frag",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.4.spotlight_smoother_edges.frag",
+              "RelativeDocumentMoniker": "5.4.spotlight_smoother_edges.frag",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.4.spotlight_smoother_edges.frag",
+              "RelativeToolTip": "5.4.spotlight_smoother_edges.frag",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-30T11:27:15.397Z",
+              "WhenOpened": "2024-06-01T00:05:31.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "5.3.spotlight.frag",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.3.spotlight.frag",
-              "RelativeDocumentMoniker": "5.3.spotlight.frag",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.3.spotlight.frag",
-              "RelativeToolTip": "5.3.spotlight.frag",
-              "ViewState": "AQIAABcAAAAAAAAAAAAQwDoAAAC2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-29T11:21:21.581Z",
+              "Title": "5.4.spotlight_smoother_edges.cpp",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.4.spotlight_smoother_edges.cpp",
+              "RelativeDocumentMoniker": "5.4.spotlight_smoother_edges.cpp",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.4.spotlight_smoother_edges.cpp",
+              "RelativeToolTip": "5.4.spotlight_smoother_edges.cpp",
+              "ViewState": "AQIAAOMAAAAAAAAAAAAgwMwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-01T00:02:37.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "5.e1.spotlight_exp.cpp",
               "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.e1.spotlight_exp.cpp",
               "RelativeDocumentMoniker": "5.e1.spotlight_exp.cpp",
               "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.e1.spotlight_exp.cpp",
               "RelativeToolTip": "5.e1.spotlight_exp.cpp",
-              "ViewState": "AQIAAD4BAAAAAAAAAAAQwHEBAAADAAAA",
+              "ViewState": "AQIAAEwBAAAAAAAAAAAiwHEBAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-30T11:27:53.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "5.e1.point_light_exp.frag",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.e1.point_light_exp.frag",
-              "RelativeDocumentMoniker": "5.e1.point_light_exp.frag",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.e1.point_light_exp.frag",
-              "RelativeToolTip": "5.e1.point_light_exp.frag",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAADAAAAB4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-30T11:26:56.584Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "5.e1.point_light_exp.cpp",
               "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.e1.point_light_exp.cpp",
               "RelativeDocumentMoniker": "5.e1.point_light_exp.cpp",
@@ -118,12 +113,11 @@
               "RelativeToolTip": "5.e1.point_light_exp.cpp",
               "ViewState": "AQIAAEUBAAAAAAAAAAAQwHgBAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-30T11:21:58.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T11:21:58.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "5.e1.dir_light_exp.cpp",
               "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.e1.dir_light_exp.cpp",
               "RelativeDocumentMoniker": "5.e1.dir_light_exp.cpp",
@@ -131,12 +125,49 @@
               "RelativeToolTip": "5.e1.dir_light_exp.cpp",
               "ViewState": "AQIAADYBAAAAAAAAAAAQwGkBAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-30T11:18:50.525Z",
+              "WhenOpened": "2024-05-30T11:18:50.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "5.3.spotlight.frag",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.3.spotlight.frag",
+              "RelativeDocumentMoniker": "5.3.spotlight.frag",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.3.spotlight.frag",
+              "RelativeToolTip": "5.3.spotlight.frag",
+              "ViewState": "AQIAABsAAAAAAAAAAADwv0EAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-29T11:21:21.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
+              "Title": "5.e1.point_light_exp.frag",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.e1.point_light_exp.frag",
+              "RelativeDocumentMoniker": "5.e1.point_light_exp.frag",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.e1.point_light_exp.frag",
+              "RelativeToolTip": "5.e1.point_light_exp.frag",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADAAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-30T11:26:56.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "5.3.spotlight.cpp",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.3.spotlight.cpp",
+              "RelativeDocumentMoniker": "5.3.spotlight.cpp",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.3.spotlight.cpp",
+              "RelativeToolTip": "5.3.spotlight.cpp",
+              "ViewState": "AQIAAE0BAAAAAAAAAAAiwHIBAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-30T11:43:46.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "5.1.directional_light.frag",
               "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.1.directional_light.frag",
               "RelativeDocumentMoniker": "5.1.directional_light.frag",
@@ -144,12 +175,23 @@
               "RelativeToolTip": "5.1.directional_light.frag",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-30T11:17:14.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T11:17:14.736Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
+              "Title": "5.e1.spotlight_exp.frag",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.e1.spotlight_exp.frag",
+              "RelativeDocumentMoniker": "5.e1.spotlight_exp.frag",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.e1.spotlight_exp.frag",
+              "RelativeToolTip": "5.e1.spotlight_exp.frag",
+              "ViewState": "AQIAACAAAAAAAAAAAAAmwDsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-30T11:27:15.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "5.2.point_light.cpp",
               "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.2.point_light.cpp",
               "RelativeDocumentMoniker": "5.2.point_light.cpp",
@@ -157,12 +199,11 @@
               "RelativeToolTip": "5.2.point_light.cpp",
               "ViewState": "AQIAAEUBAAAAAAAAAAAQwHgBAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-30T11:12:51.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T11:12:51.848Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "5.1.directional_light.cpp",
               "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.1.directional_light.cpp",
               "RelativeDocumentMoniker": "5.1.directional_light.cpp",
@@ -170,25 +211,11 @@
               "RelativeToolTip": "5.1.directional_light.cpp",
               "ViewState": "AQIAADgBAAAAAAAAAAAQwGsBAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-29T12:04:59.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T12:04:59.62Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "5.3.spotlight.cpp",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.3.spotlight.cpp",
-              "RelativeDocumentMoniker": "5.3.spotlight.cpp",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.3.spotlight.cpp",
-              "RelativeToolTip": "5.3.spotlight.cpp",
-              "ViewState": "AQIAABgBAAAAAAAAAAAUwFwBAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-30T11:43:46.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "5.2.point_light.frag",
               "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\05 - light casters\\5.2.point_light.frag",
               "RelativeDocumentMoniker": "5.2.point_light.frag",
@@ -196,8 +223,7 @@
               "RelativeToolTip": "5.2.point_light.frag",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-29T11:20:41.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:20:41.296Z"
             }
           ]
         }
