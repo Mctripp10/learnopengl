@@ -14,7 +14,6 @@ struct DirLight {
     vec3 diffuse;
     vec3 specular;
 };  
-uniform DirLight dirLight;
 
 struct PointLight {    
     vec3 position;
@@ -27,8 +26,6 @@ struct PointLight {
     vec3 diffuse;
     vec3 specular;
 };
-#define NR_POINT_LIGHTS 4  
-uniform PointLight pointLights[NR_POINT_LIGHTS];
 
 struct Spotlight {
     vec3 position;
@@ -44,11 +41,8 @@ struct Spotlight {
     float linear;
     float quadratic;
 };  
-uniform Spotlight spotlight;
 
-vec3 CalcDirLight(DirLight light, vec3 normal, vec3 viewDir);
-vec3 CalcPointLight(PointLight light, vec3 normal, vec3 fragPos, vec3 viewDir);  
-vec3 CalcSpotlight(Spotlight light, vec3 normal, vec3 fragPos, vec3 viewDir);
+#define NR_POINT_LIGHTS 4  
 
 in vec3 FragPos;  
 in vec3 Normal;
@@ -56,6 +50,14 @@ in vec2 TexCoords;
   
 uniform vec3 viewPos;
 uniform Material material;
+uniform PointLight pointLights[NR_POINT_LIGHTS];
+uniform DirLight dirLight;
+uniform Spotlight spotlight;
+
+// function prototypes
+vec3 CalcDirLight(DirLight light, vec3 normal, vec3 viewDir);
+vec3 CalcPointLight(PointLight light, vec3 normal, vec3 fragPos, vec3 viewDir);  
+vec3 CalcSpotlight(Spotlight light, vec3 normal, vec3 fragPos, vec3 viewDir);
 
 void main()
 {
@@ -74,6 +76,7 @@ void main()
     FragColor = vec4(result, 1.0);
 }
 
+// calculates the color when using a directional light.
 vec3 CalcDirLight(DirLight light, vec3 normal, vec3 viewDir)
 {
     vec3 lightDir = normalize(-light.direction);
@@ -89,6 +92,7 @@ vec3 CalcDirLight(DirLight light, vec3 normal, vec3 viewDir)
     return (ambient + diffuse + specular);
 }  
 
+// calculates the color when using a point light.
 vec3 CalcPointLight(PointLight light, vec3 normal, vec3 fragPos, vec3 viewDir)
 {
     vec3 lightDir = normalize(light.position - fragPos);
@@ -111,6 +115,7 @@ vec3 CalcPointLight(PointLight light, vec3 normal, vec3 fragPos, vec3 viewDir)
     return (ambient + diffuse + specular);
 }
 
+// calculates the color when using a spot light.
 vec3 CalcSpotlight(Spotlight light, vec3 normal, vec3 fragPos, vec3 viewDir) 
 {
     // ambient
