@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\06 - multiple lights\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8D1F7E4-2733-4319-86A7-F42945B91E6D}|06 - multiple lights.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\06 - multiple lights\\6.1.multiple_lights.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C8D1F7E4-2733-4319-86A7-F42945B91E6D}|06 - multiple lights.vcxproj|solutionrelative:6.1.multiple_lights.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C8D1F7E4-2733-4319-86A7-F42945B91E6D}|06 - multiple lights.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\06 - multiple lights\\6.2.horror_lights.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8D1F7E4-2733-4319-86A7-F42945B91E6D}|06 - multiple lights.vcxproj|solutionrelative:6.2.horror_lights.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D1F7E4-2733-4319-86A7-F42945B91E6D}|06 - multiple lights.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\06 - multiple lights\\6.3.biochemical_lab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8D1F7E4-2733-4319-86A7-F42945B91E6D}|06 - multiple lights.vcxproj|solutionrelative:6.3.biochemical_lab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8D1F7E4-2733-4319-86A7-F42945B91E6D}|06 - multiple lights.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\06 - multiple lights\\6.1.light_source.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -31,45 +35,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "6.1.multiple_lights.cpp",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\06 - multiple lights\\6.1.multiple_lights.cpp",
-              "RelativeDocumentMoniker": "6.1.multiple_lights.cpp",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\06 - multiple lights\\6.1.multiple_lights.cpp",
-              "RelativeToolTip": "6.1.multiple_lights.cpp",
-              "ViewState": "AQIAANMAAAAAAAAAAAAUwPAAAAAJAAAA",
+              "Title": "6.2.horror_lights.cpp",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\06 - multiple lights\\6.2.horror_lights.cpp",
+              "RelativeDocumentMoniker": "6.2.horror_lights.cpp",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\06 - multiple lights\\6.2.horror_lights.cpp",
+              "RelativeToolTip": "6.2.horror_lights.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-03T22:26:09.827Z",
+              "WhenOpened": "2024-06-04T13:26:51.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "6.3.biochemical_lab.cpp",
+              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\06 - multiple lights\\6.3.biochemical_lab.cpp",
+              "RelativeDocumentMoniker": "6.3.biochemical_lab.cpp",
+              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\06 - multiple lights\\6.3.biochemical_lab.cpp",
+              "RelativeToolTip": "6.3.biochemical_lab.cpp",
+              "ViewState": "AQIAAH4BAAAAAAAAAAAiwKMBAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-04T13:19:16.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "6.1.light_source.frag",
               "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\06 - multiple lights\\6.1.light_source.frag",
               "RelativeDocumentMoniker": "6.1.light_source.frag",
               "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\06 - multiple lights\\6.1.light_source.frag",
               "RelativeToolTip": "6.1.light_source.frag",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-06-03T22:33:31.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "6.1.multiple_lights.frag",
               "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\06 - multiple lights\\6.1.multiple_lights.frag",
               "RelativeDocumentMoniker": "6.1.multiple_lights.frag",
               "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\06 - multiple lights\\6.1.multiple_lights.frag",
               "RelativeToolTip": "6.1.multiple_lights.frag",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAAAEcAAAAXAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-06-03T22:32:45.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "6.1.multiple_lights.vert",
               "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\06 - multiple lights\\6.1.multiple_lights.vert",
               "RelativeDocumentMoniker": "6.1.multiple_lights.vert",
@@ -77,8 +94,7 @@
               "RelativeToolTip": "6.1.multiple_lights.vert",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-03T22:32:20.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T22:32:20.476Z"
             }
           ]
         }

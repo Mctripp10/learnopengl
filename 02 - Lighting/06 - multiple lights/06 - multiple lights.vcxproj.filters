@@ -24,6 +24,12 @@
     <ClCompile Include="..\..\..\..\..\..\..\..\OpenGL\glad\src\glad.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="6.2.horror_lights.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="6.3.biochemical_lab.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="6.1.multiple_lights.vert">

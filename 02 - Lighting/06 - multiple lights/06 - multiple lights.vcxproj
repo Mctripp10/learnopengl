@@ -134,6 +134,8 @@
   <ItemGroup>
     <ClCompile Include="..\..\..\..\..\..\..\..\OpenGL\glad\src\glad.c" />
     <ClCompile Include="6.1.multiple_lights.cpp" />
+    <ClCompile Include="6.2.horror_lights.cpp" />
+    <ClCompile Include="6.3.biochemical_lab.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="6.1.light_source.frag" />
