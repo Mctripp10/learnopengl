@@ -18,12 +18,9 @@ void scroll_callback(GLFWwindow* window, double xoffset, double yoffset);
 void processInput(GLFWwindow* window);
 unsigned int loadTexture(char const* path);
 
-// Light Casters 3
+// Multiple Lights 1
 //
-// Implements a spotlight, a light source that is located somewhere in the environment that, instead of shooting light rays in all directions, only shoots them in a specific direction
-// This particular implementation involves shooting the spotlight out from the user's position like a flashlight
-// 
-// 5-30-2024
+// 6-3-2024
 
 // settings
 const unsigned int SCR_WIDTH = 800;
@@ -151,6 +148,13 @@ int main()
         glm::vec3(-1.3f,  1.0f, -1.5f)
     };
 
+    glm::vec3 pointLightPositions[] = {
+        glm::vec3(0.7f,  0.2f,  2.0f),
+        glm::vec3(2.3f, -3.3f, -4.0f),
+        glm::vec3(-4.0f,  2.0f, -12.0f),
+        glm::vec3(0.0f,  0.0f, -3.0f)
+    };
+
     // first, configure the cube's VAO (and VBO)
     unsigned int VBO, cubeVAO;
     glGenVertexArrays(1, &cubeVAO);
@@ -218,19 +222,35 @@ int main()
         // material properties
         lightingShader.setFloat("material.shininess", 64.0f);
 
-        // light properties
-        lightingShader.setVec3("light.ambient", 0.2f, 0.2f, 0.2f);
-        lightingShader.setVec3("light.diffuse", 0.5f, 0.5f, 0.5f);
-        lightingShader.setVec3("light.specular", 1.0f, 1.0f, 1.0f);
-        lightingShader.setFloat("light.constant", 1.0f);
-        lightingShader.setFloat("light.linear", 0.09f);
-        lightingShader.setFloat("light.quadratic", 0.032f);
-        lightingShader.setVec3("light.position", camera.Position);
-        lightingShader.setVec3("light.direction", camera.Front);
-        // use cos of the angles here because this will be compared to the dot of LightDir and SpotDir, 
-        // which returns a cos value, and it is less computationally expensive to calc cos here than in shader
-        lightingShader.setFloat("light.cutOff", glm::cos(glm::radians(10.0f)));     
-        lightingShader.setFloat("light.outerCutOff", glm::cos(glm::radians(17.0f)));
+        // directional light properties
+        lightingShader.setVec3("dirLight.direction", -0.2f, -1.0f, -0.3f);
+        lightingShader.setVec3("dirLight.ambient", 0.1f, 0.1f, 0.1f);
+        lightingShader.setVec3("dirLight.diffuse", 0.1f, 0.1f, 0.1f);
+        lightingShader.setVec3("dirLight.specular", 1.0f, 1.0f, 1.0f);
+
+        // point light properties
+        for (unsigned int i = 0; i < 4; i++) 
+        {
+            std::string pointLightIndex = std::string("pointLights[") + std::to_string(i) + "].";
+            lightingShader.setVec3(pointLightIndex + "ambient", 0.2f, 0.2f, 0.2f);
+            lightingShader.setVec3(pointLightIndex + "diffuse", 0.2f, 0.2f, 0.2f);
+            lightingShader.setVec3(pointLightIndex + "specular", 1.0f, 1.0f, 1.0f);
+            lightingShader.setFloat(pointLightIndex + "constant", 1.0f);
+            lightingShader.setFloat(pointLightIndex + "linear", 0.09f);
+            lightingShader.setFloat(pointLightIndex + "quadratic", 0.032f);
+        }
+        
+        // spotlight properties
+        lightingShader.setVec3("spotlight.ambient", 0.2f, 0.2f, 0.2f);
+        lightingShader.setVec3("spotlight.diffuse", 0.5f, 0.5f, 0.5f);
+        lightingShader.setVec3("spotlight.specular", 1.0f, 1.0f, 1.0f);
+        lightingShader.setFloat("spotlight.constant", 1.0f);
+        lightingShader.setFloat("spotlight.linear", 0.09f);
+        lightingShader.setFloat("spotlight.quadratic", 0.032f);
+        lightingShader.setVec3("spotlight.position", camera.Position);
+        lightingShader.setVec3("spotlight.direction", camera.Front);
+        lightingShader.setFloat("spotlight.cutOff", glm::cos(glm::radians(10.0f)));     
+        lightingShader.setFloat("spotlight.outerCutOff", glm::cos(glm::radians(17.0f)));
 
         // view/projection transformations
         glm::mat4 projection = glm::perspective(glm::radians(camera.Zoom), (float)SCR_WIDTH / (float)SCR_HEIGHT, 0.1f, 100.0f);
@@ -256,6 +276,19 @@ int main()
             float angle = 20.0f * (i + 1) * (float)glfwGetTime();
             model = glm::rotate(model, glm::radians(angle), glm::vec3(1.0f, 0.3f, 0.5f));
             lightingShader.setMat4("model", model);
+            glDrawArrays(GL_TRIANGLES, 0, 36);
+        }
+
+        // draw the point light objects
+        lightCubeShader.use();
+        lightCubeShader.setMat4("projection", projection);
+        lightCubeShader.setMat4("view", view);
+        glBindVertexArray(lightCubeVAO);
+        for (unsigned int i = 0; i < 4; i++) {
+            model = glm::mat4(1.0f);
+            model = glm::translate(model, pointLightPositions[i]);
+            model = glm::scale(model, glm::vec3(0.2f));
+            lightCubeShader.setMat4("model", model);
             glDrawArrays(GL_TRIANGLES, 0, 36);
         }
 
