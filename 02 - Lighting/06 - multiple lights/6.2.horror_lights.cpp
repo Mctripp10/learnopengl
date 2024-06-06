@@ -20,7 +20,7 @@ unsigned int loadTexture(char const* path);
 
 // Multiple Lights 2
 // 
-// Light scene to simulate a dark, horror atmosphere
+// Light scene to simulate a dark, horror-like atmosphere
 // Contains 4 points lights and 1 spotlight/flashlight (no directional light)
 //
 // 6-4-2024

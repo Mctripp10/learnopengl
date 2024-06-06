@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{C8D1F7E4-2733-4319-86A7-F42945B91E6D}|06 - multiple lights.vcxproj|solutionrelative:6.2.horror_lights.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8D1F7E4-2733-4319-86A7-F42945B91E6D}|06 - multiple lights.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\06 - multiple lights\\6.3.biochemical_lab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C8D1F7E4-2733-4319-86A7-F42945B91E6D}|06 - multiple lights.vcxproj|solutionrelative:6.3.biochemical_lab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C8D1F7E4-2733-4319-86A7-F42945B91E6D}|06 - multiple lights.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\06 - multiple lights\\6.1.multiple_lights.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{C8D1F7E4-2733-4319-86A7-F42945B91E6D}|06 - multiple lights.vcxproj|solutionrelative:6.1.multiple_lights.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D1F7E4-2733-4319-86A7-F42945B91E6D}|06 - multiple lights.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\06 - multiple lights\\6.3.biochemical_lab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8D1F7E4-2733-4319-86A7-F42945B91E6D}|06 - multiple lights.vcxproj|solutionrelative:6.3.biochemical_lab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,14 +32,14 @@
               "RelativeDocumentMoniker": "6.2.horror_lights.cpp",
               "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\06 - multiple lights\\6.2.horror_lights.cpp",
               "RelativeToolTip": "6.2.horror_lights.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABNAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-04T13:26:51.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "6.3.biochemical_lab.cpp",
               "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\06 - multiple lights\\6.3.biochemical_lab.cpp",
               "RelativeDocumentMoniker": "6.3.biochemical_lab.cpp",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "6.1.multiple_lights.vert",
               "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\02 - Lighting\\06 - multiple lights\\6.1.multiple_lights.vert",
               "RelativeDocumentMoniker": "6.1.multiple_lights.vert",
@@ -59,7 +59,8 @@
               "RelativeToolTip": "6.1.multiple_lights.vert",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-03T22:32:20.476Z"
+              "WhenOpened": "2024-06-03T22:32:20.476Z",
+              "EditorCaption": ""
             }
           ]
         }
