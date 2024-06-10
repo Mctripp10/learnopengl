@@ -1,7 +1,4 @@
-﻿  4.3.emission_fun.cpp
-C:\Users\Mctri\Workspaces\visual-studio-workspace\OpenGL\learnopengl\02 - Lighting\04 - lighting maps\4.3.emission_fun.cpp(230,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-  4.4.emission_fun2.cpp
-  4.e3.colored_spec_map.cpp
-  4.e4.emission_map.cpp
+﻿  4.1.diffuse_map.cpp
+  4.3.emission_fun.cpp
   Generating Code...
   04 - lighting maps.vcxproj -> C:\Users\Mctri\Workspaces\visual-studio-workspace\OpenGL\learnopengl\02 - Lighting\04 - lighting maps\x64\Debug\04 - lighting maps.exe

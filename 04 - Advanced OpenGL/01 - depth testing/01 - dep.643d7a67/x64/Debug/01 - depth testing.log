@@ -1,0 +1,476 @@
+﻿  1.1.depth_testing.cpp
+C:\OpenGL\include\stb_image\stb_image.h(731,12): error C2084: function 'int stbi__cpuid3(void)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(731,12):
+  see previous definition of 'stbi__cpuid3'
+  
+C:\OpenGL\include\stb_image\stb_image.h(753,12): error C2084: function 'int stbi__sse2_available(void)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(753,12):
+  see previous definition of 'stbi__sse2_available'
+  
+C:\OpenGL\include\stb_image\stb_image.h(755,14): error C2440: 'initializing': cannot convert from 'int (__cdecl *)(void)' to 'int'
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(755,14):
+  There is no context in which this conversion is possible
+  
+C:\OpenGL\include\stb_image\stb_image.h(819,3): error C2371: 'stbi__context': redefinition; different basic types
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(819,3):
+  see declaration of 'stbi__context'
+  
+C:\OpenGL\include\stb_image\stb_image.h(825,13): error C2084: function 'void stbi__start_mem(stbi__context *,const stbi_uc *,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(825,13):
+  see previous definition of 'stbi__start_mem'
+  
+C:\OpenGL\include\stb_image\stb_image.h(835,13): error C2084: function 'void stbi__start_callbacks(stbi__context *,stbi_io_callbacks *,void *)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(835,13):
+  see previous definition of 'stbi__start_callbacks'
+  
+C:\OpenGL\include\stb_image\stb_image.h(849,12): error C2084: function 'int stbi__stdio_read(void *,char *,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(849,12):
+  see previous definition of 'stbi__stdio_read'
+  
+C:\OpenGL\include\stb_image\stb_image.h(854,13): error C2084: function 'void stbi__stdio_skip(void *,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(854,13):
+  see previous definition of 'stbi__stdio_skip'
+  
+C:\OpenGL\include\stb_image\stb_image.h(864,12): error C2084: function 'int stbi__stdio_eof(void *)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(864,12):
+  see previous definition of 'stbi__stdio_eof'
+  
+C:\OpenGL\include\stb_image\stb_image.h(869,26): error C2374: 'stbi__stdio_callbacks': redefinition; multiple initialization
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(869,26):
+  see declaration of 'stbi__stdio_callbacks'
+  
+C:\OpenGL\include\stb_image\stb_image.h(876,13): error C2084: function 'void stbi__start_file(stbi__context *,FILE *)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(876,13):
+  see previous definition of 'stbi__start_file'
+  
+C:\OpenGL\include\stb_image\stb_image.h(878,4): error C2264: 'stbi__start_callbacks': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(885,13): error C2084: function 'void stbi__rewind(stbi__context *)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(885,13):
+  see previous definition of 'stbi__rewind'
+  
+C:\OpenGL\include\stb_image\stb_image.h(896,4): error C2365: 'STBI_ORDER_RGB': redefinition; previous definition was 'enumerator'
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(896,4):
+  see declaration of 'STBI_ORDER_RGB'
+  
+C:\OpenGL\include\stb_image\stb_image.h(897,4): error C2365: 'STBI_ORDER_BGR': redefinition; previous definition was 'enumerator'
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(897,4):
+  see declaration of 'STBI_ORDER_BGR'
+  
+C:\OpenGL\include\stb_image\stb_image.h(905,3): error C2371: 'stbi__result_info': redefinition; different basic types
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(905,3):
+  see declaration of 'stbi__result_info'
+  
+C:\OpenGL\include\stb_image\stb_image.h(969,13): error C2086: 'const char *stbi__g_failure_reason': redefinition
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(969,13):
+  see declaration of 'stbi__g_failure_reason'
+  
+C:\OpenGL\include\stb_image\stb_image.h(971,21): error C2084: function 'const char *stbi_failure_reason(void)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(971,21):
+  see previous definition of 'stbi_failure_reason'
+  
+C:\OpenGL\include\stb_image\stb_image.h(977,12): warning C4003: not enough arguments for function-like macro invocation 'stbi__err'
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(977,12): error C2084: function 'int stbi__err(const char *)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(977,12):
+  see previous definition of 'stbi__err'
+  
+C:\OpenGL\include\stb_image\stb_image.h(984,14): error C2084: function 'void *stbi__malloc(size_t)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(984,14):
+  see previous definition of 'stbi__malloc'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1001,12): error C2084: function 'int stbi__addsizes_valid(int,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1001,12):
+  see previous definition of 'stbi__addsizes_valid'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1013,12): error C2084: function 'int stbi__mul2sizes_valid(int,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1013,12):
+  see previous definition of 'stbi__mul2sizes_valid'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1023,12): error C2084: function 'int stbi__mad2sizes_valid(int,int,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1023,12):
+  see previous definition of 'stbi__mad2sizes_valid'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1025,72): warning C4551: function call missing argument list
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1025,32): error C2568: '&&': unable to resolve function overload
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1025,32):
+  could be 'int stbi__mul2sizes_valid(int,int)'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1030,12): error C2084: function 'int stbi__mad3sizes_valid(int,int,int,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1030,12):
+  see previous definition of 'stbi__mad3sizes_valid'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1032,72): warning C4551: function call missing argument list
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1032,32): error C2568: '&&': unable to resolve function overload
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1032,32):
+  could be 'int stbi__mul2sizes_valid(int,int)'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1038,12): error C2084: function 'int stbi__mad4sizes_valid(int,int,int,int,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1038,12):
+  see previous definition of 'stbi__mad4sizes_valid'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1040,72): warning C4551: function call missing argument list
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1040,32): error C2568: '&&': unable to resolve function overload
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1040,32):
+  could be 'int stbi__mul2sizes_valid(int,int)'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1047,14): error C2084: function 'void *stbi__malloc_mad2(int,int,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1047,14):
+  see previous definition of 'stbi__malloc_mad2'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1049,8): warning C4551: function call missing argument list
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1054,14): error C2084: function 'void *stbi__malloc_mad3(int,int,int,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1054,14):
+  see previous definition of 'stbi__malloc_mad3'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1056,8): warning C4551: function call missing argument list
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1061,14): error C2084: function 'void *stbi__malloc_mad4(int,int,int,int,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1061,14):
+  see previous definition of 'stbi__malloc_mad4'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1063,8): warning C4551: function call missing argument list
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1069,12): error C2084: function 'int stbi__addints_valid(int,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1069,12):
+  see previous definition of 'stbi__addints_valid'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1077,12): error C2084: function 'int stbi__mul2shorts_valid(int,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1077,12):
+  see previous definition of 'stbi__mul2shorts_valid'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1100,14): error C2084: function 'void stbi_image_free(void *)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1100,14):
+  see previous definition of 'stbi_image_free'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1113,12): error C2374: 'stbi__vertically_flip_on_load_global': redefinition; multiple initialization
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1113,12):
+  see declaration of 'stbi__vertically_flip_on_load_global'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1115,14): error C2084: function 'void stbi_set_flip_vertically_on_load(int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1115,14):
+  see previous definition of 'stbi_set_flip_vertically_on_load'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1123,30): error C2086: 'int stbi__vertically_flip_on_load_local': redefinition
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1123,30):
+  see declaration of 'stbi__vertically_flip_on_load_local'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1123,67): error C2086: 'int stbi__vertically_flip_on_load_set': redefinition
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1123,67):
+  see declaration of 'stbi__vertically_flip_on_load_set'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1125,14): error C2084: function 'void stbi_set_flip_vertically_on_load_thread(int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1125,14):
+  see previous definition of 'stbi_set_flip_vertically_on_load_thread'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1136,14): error C2084: function 'void *stbi__load_main(stbi__context *,int *,int *,int *,int,stbi__result_info *,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1136,14):
+  see previous definition of 'stbi__load_main'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1189,17): error C2084: function 'stbi_uc *stbi__convert_16_to_8(stbi__uint16 *,int,int,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1189,17):
+  see previous definition of 'stbi__convert_16_to_8'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1205,22): error C2084: function 'stbi__uint16 *stbi__convert_8_to_16(stbi_uc *,int,int,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1205,22):
+  see previous definition of 'stbi__convert_8_to_16'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1221,13): error C2084: function 'void stbi__vertical_flip(void *,int,int,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1221,13):
+  see previous definition of 'stbi__vertical_flip'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1246,13): error C2084: function 'void stbi__vertical_flip_slices(void *,int,int,int,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1246,13):
+  see previous definition of 'stbi__vertical_flip_slices'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1259,23): error C2084: function 'unsigned char *stbi__load_and_postprocess_8bit(stbi__context *,int *,int *,int *,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1259,23):
+  see previous definition of 'stbi__load_and_postprocess_8bit'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1262,19): error C2264: 'stbi__load_main': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1271,37): error C2568: '=': unable to resolve function overload
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1271,37):
+  could be 'stbi_uc *stbi__convert_16_to_8(stbi__uint16 *,int,int,int)'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1285,22): error C2084: function 'stbi__uint16 *stbi__load_and_postprocess_16bit(stbi__context *,int *,int *,int *,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1285,22):
+  see previous definition of 'stbi__load_and_postprocess_16bit'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1288,19): error C2264: 'stbi__load_main': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1297,37): error C2568: '=': unable to resolve function overload
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1297,37):
+  could be 'stbi__uint16 *stbi__convert_8_to_16(stbi_uc *,int,int,int)'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1313,13): error C2084: function 'void stbi__float_postprocess(float *,int *,int *,int *,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1313,13):
+  see previous definition of 'stbi__float_postprocess'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1336,14): error C2084: function 'FILE *stbi__fopen(const char *,const char *)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1336,14):
+  see previous definition of 'stbi__fopen'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1365,18): error C2084: function 'stbi_uc *stbi_load(const char *,int *,int *,int *,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1365,18):
+  see previous definition of 'stbi_load'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1367,12): error C2440: 'initializing': cannot convert from 'FILE *(__cdecl *)(const char *,const char *)' to 'FILE *'
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1367,12):
+  There is no context in which this conversion is possible
+  
+C:\OpenGL\include\stb_image\stb_image.h(1375,18): error C2084: function 'stbi_uc *stbi_load_from_file(FILE *,int *,int *,int *,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1375,18):
+  see previous definition of 'stbi_load_from_file'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1379,4): error C2264: 'stbi__start_file': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1380,13): error C2264: 'stbi__load_and_postprocess_8bit': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1388,23): error C2084: function 'stbi_us *stbi_load_from_file_16(FILE *,int *,int *,int *,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1388,23):
+  see previous definition of 'stbi_load_from_file_16'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1392,4): error C2264: 'stbi__start_file': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1393,13): error C2264: 'stbi__load_and_postprocess_16bit': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1401,18): error C2084: function 'stbi_us *stbi_load_16(const char *,int *,int *,int *,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1401,18):
+  see previous definition of 'stbi_load_16'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1403,12): error C2440: 'initializing': cannot convert from 'FILE *(__cdecl *)(const char *,const char *)' to 'FILE *'
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1403,12):
+  There is no context in which this conversion is possible
+  
+C:\OpenGL\include\stb_image\stb_image.h(1406,13): error C2264: 'stbi_load_from_file_16': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1414,18): error C2084: function 'stbi_us *stbi_load_16_from_memory(const stbi_uc *,int,int *,int *,int *,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1414,18):
+  see previous definition of 'stbi_load_16_from_memory'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1417,4): error C2264: 'stbi__start_mem': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1418,11): error C2264: 'stbi__load_and_postprocess_16bit': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1421,18): error C2084: function 'stbi_us *stbi_load_16_from_callbacks(const stbi_io_callbacks *,void *,int *,int *,int *,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1421,18):
+  see previous definition of 'stbi_load_16_from_callbacks'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1424,4): error C2264: 'stbi__start_callbacks': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1425,11): error C2264: 'stbi__load_and_postprocess_16bit': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1428,18): error C2084: function 'stbi_uc *stbi_load_from_memory(const stbi_uc *,int,int *,int *,int *,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1428,18):
+  see previous definition of 'stbi_load_from_memory'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1431,4): error C2264: 'stbi__start_mem': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1432,11): error C2264: 'stbi__load_and_postprocess_8bit': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1435,18): error C2084: function 'stbi_uc *stbi_load_from_callbacks(const stbi_io_callbacks *,void *,int *,int *,int *,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1435,18):
+  see previous definition of 'stbi_load_from_callbacks'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1438,4): error C2264: 'stbi__start_callbacks': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1439,11): error C2264: 'stbi__load_and_postprocess_8bit': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1443,18): error C2084: function 'stbi_uc *stbi_load_gif_from_memory(const stbi_uc *,int,int **,int *,int *,int *,int *,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1443,18):
+  see previous definition of 'stbi_load_gif_from_memory'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1447,4): error C2264: 'stbi__start_mem': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1459,15): error C2084: function 'float *stbi__loadf_main(stbi__context *,int *,int *,int *,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1459,15):
+  see previous definition of 'stbi__loadf_main'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1471,11): error C2264: 'stbi__load_and_postprocess_8bit': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1477,16): error C2084: function 'float *stbi_loadf_from_memory(const stbi_uc *,int,int *,int *,int *,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1477,16):
+  see previous definition of 'stbi_loadf_from_memory'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1480,4): error C2264: 'stbi__start_mem': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1481,11): error C2264: 'stbi__loadf_main': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1484,16): error C2084: function 'float *stbi_loadf_from_callbacks(const stbi_io_callbacks *,void *,int *,int *,int *,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1484,16):
+  see previous definition of 'stbi_loadf_from_callbacks'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1487,4): error C2264: 'stbi__start_callbacks': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1488,11): error C2264: 'stbi__loadf_main': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1492,16): error C2084: function 'float *stbi_loadf(const char *,int *,int *,int *,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1492,16):
+  see previous definition of 'stbi_loadf'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1495,12): error C2440: 'initializing': cannot convert from 'FILE *(__cdecl *)(const char *,const char *)' to 'FILE *'
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1495,12):
+  There is no context in which this conversion is possible
+  
+C:\OpenGL\include\stb_image\stb_image.h(1502,16): error C2084: function 'float *stbi_loadf_from_file(FILE *,int *,int *,int *,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1502,16):
+  see previous definition of 'stbi_loadf_from_file'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1505,4): error C2264: 'stbi__start_file': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1506,11): error C2264: 'stbi__loadf_main': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1516,13): error C2084: function 'int stbi_is_hdr_from_memory(const stbi_uc *,int)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1516,13):
+  see previous definition of 'stbi_is_hdr_from_memory'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1520,4): error C2264: 'stbi__start_mem': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1530,18): error C2084: function 'int stbi_is_hdr(const char *)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1530,18):
+  see previous definition of 'stbi_is_hdr'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1532,12): error C2440: 'initializing': cannot convert from 'FILE *(__cdecl *)(const char *,const char *)' to 'FILE *'
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1532,12):
+  There is no context in which this conversion is possible
+  
+C:\OpenGL\include\stb_image\stb_image.h(1541,13): error C2084: function 'int stbi_is_hdr_from_file(FILE *)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1541,13):
+  see previous definition of 'stbi_is_hdr_from_file'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1547,4): error C2264: 'stbi__start_file': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1558,18): error C2084: function 'int stbi_is_hdr_from_callbacks(const stbi_io_callbacks *,void *)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1558,18):
+  see previous definition of 'stbi_is_hdr_from_callbacks'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1562,4): error C2264: 'stbi__start_callbacks': error in function definition or declaration; function not called
+  (compiling source file '1.1.depth_testing.cpp')
+  
+C:\OpenGL\include\stb_image\stb_image.h(1572,14): error C2374: 'stbi__l2h_gamma': redefinition; multiple initialization
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1572,14):
+  see declaration of 'stbi__l2h_gamma'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1572,36): error C2374: 'stbi__l2h_scale': redefinition; multiple initialization
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1572,36):
+  see declaration of 'stbi__l2h_scale'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1574,16): error C2084: function 'void stbi_ldr_to_hdr_gamma(float)' already has a body
+  (compiling source file '1.1.depth_testing.cpp')
+  C:\OpenGL\include\stb_image\stb_image.h(1574,16):
+  see previous definition of 'stbi_ldr_to_hdr_gamma'
+  
+C:\OpenGL\include\stb_image\stb_image.h(1574,16): error C1003: error count exceeds 100; stopping compilation
+  (compiling source file '1.1.depth_testing.cpp')
+  

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\03 - Model Loading\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87802A7C-C31C-467F-B0AC-5D493525FA88}|03 - Model Loading.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\03 - Model Loading\\model_loading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{87802A7C-C31C-467F-B0AC-5D493525FA88}|03 - Model Loading.vcxproj|solutionrelative:model_loading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{87802A7C-C31C-467F-B0AC-5D493525FA88}|03 - Model Loading.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\03 - Model Loading\\light_source.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{87802A7C-C31C-467F-B0AC-5D493525FA88}|03 - Model Loading.vcxproj|solutionrelative:light_source.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87802A7C-C31C-467F-B0AC-5D493525FA88}|03 - Model Loading.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\03 - Model Loading\\model_loading.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -23,10 +23,6 @@
       "RelativeMoniker": "D:0:0:{87802A7C-C31C-467F-B0AC-5D493525FA88}|03 - Model Loading.vcxproj|solutionrelative:light_source.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87802A7C-C31C-467F-B0AC-5D493525FA88}|03 - Model Loading.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\03 - Model Loading\\light_source.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{87802A7C-C31C-467F-B0AC-5D493525FA88}|03 - Model Loading.vcxproj|solutionrelative:light_source.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87802A7C-C31C-467F-B0AC-5D493525FA88}|03 - Model Loading.vcxproj|C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\03 - Model Loading\\model_loading.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{87802A7C-C31C-467F-B0AC-5D493525FA88}|03 - Model Loading.vcxproj|solutionrelative:model_loading.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
@@ -38,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 188,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "light_source.vert",
               "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\03 - Model Loading\\light_source.vert",
               "RelativeDocumentMoniker": "light_source.vert",
@@ -50,7 +46,8 @@
               "RelativeToolTip": "light_source.vert",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-06T20:35:23.588Z"
+              "WhenOpened": "2024-06-06T20:35:23.588Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -102,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "model_loading.vert",
               "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\03 - Model Loading\\model_loading.vert",
               "RelativeDocumentMoniker": "model_loading.vert",
@@ -111,19 +108,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-06-06T20:04:04.814Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "model_loading.cpp",
-              "DocumentMoniker": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\03 - Model Loading\\model_loading.cpp",
-              "RelativeDocumentMoniker": "model_loading.cpp",
-              "ToolTip": "C:\\Users\\Mctri\\Workspaces\\visual-studio-workspace\\OpenGL\\learnopengl\\03 - Model Loading\\model_loading.cpp",
-              "RelativeToolTip": "model_loading.cpp",
-              "ViewState": "AQIAAKEAAAAAAAAAAAAAwLYAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-05T16:58:36.209Z",
-              "EditorCaption": ""
             }
           ]
         }
